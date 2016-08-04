@@ -6,7 +6,7 @@ Hand me a cup of coffee with a dash of cream, and let's get talking. I'm a fourt
 
 I'm always up for a chat, so [get in touch](mailto:e.leiachang@gmail.com). 
 
-##Talk to me about: 
+## Talk to me about: 
 - UX Design
 - Machine Learning 
 - Blues or Tango Dancing 
@@ -15,7 +15,7 @@ I'm always up for a chat, so [get in touch](mailto:e.leiachang@gmail.com).
 - Disneyland
 - Whatever you're passionate about! 
 
-##Find me on: 
+## Find me on: 
 - [GitHub](https://github.com/leils)
 - [Flickr](https://www.flickr.com/photos/photogrisms/)
 - [Instagram](https://www.instagram.com/leilisms/)

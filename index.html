@@ -1,1 +1,25 @@
-Hello World
+---
+layout: default 
+title: Home 
+---
+<h1>Scatterbrain Extraordinaire</h1>
+<p>Welcome to the blog/website/ramblings of Leia Chang. I'm a programmer, dancer, photographer, artist ... and a plethora of other things.</p>
+<h2>Recent Work Showcase:</h2>
+
+<a href="http://programmydance.blogspot.com" target="_blank"><img src="/assets/EL_logo.jpg" width=200 height=200></a>
+
+<br>
+
+<div style="width:300px;height:200px;text-align:center;margin:none;" ><object width="300" height="200" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"  codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"> <param name="flashvars" value="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Fphotogrisms%2Fshow&amp;page_show_back_url=%2Fphotos%2Fphotogrisms%2F&amp;user_id=115066382@N04" /> <param name="allowFullScreen" value="true" /> <param name="src" value="https://www.flickr.com/apps/slideshow/show.swf?v=71649" /> <embed width="300" height="200" type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=71649" flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Fphotogrisms%2Fshow&amp;page_show_back_url=%2Fphotos%2Fphotogrisms%2F&amp;user_id=115066382@N04" allowFullScreen="true" /> </object><br /></div>
+
+
+<h2>Recent Posts</h2>
+   
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>

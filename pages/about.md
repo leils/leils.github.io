@@ -16,7 +16,8 @@ I'm always up for a chat, so [get in touch](mailto:e.leiachang@gmail.com).
 - Whatever you're passionate about! 
 
 ## Find me on: 
-- [GitHub](https://github.com/leils)
+- [Medium](https://medium.com/@leilisms)
 - [Flickr](https://www.flickr.com/photos/photogrisms/)
 - [Instagram](https://www.instagram.com/leilisms/)
 - [LinkedIn](https://www.linkedin.com/in/leia-chang)
+- [GitHub](https://github.com/leils)

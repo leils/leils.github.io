@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         kramdown 
+markdown:         kramdown
 highlighter:      pygments
 
 # Permalinks
@@ -10,7 +10,7 @@ highlighter:      pygments
 title:            Leia
 tagline:          'BOOMSHAKALAKA'
 description:      'Programmer, Dancer, Artist'
-url:              leils.github.io
+url:              http://leiac.me 
 baseurl:          /
 
 author:
@@ -23,4 +23,3 @@ paginate_path:    "/blog/page:num/"
 
 # Custom vars
 version:          2.1.0
-

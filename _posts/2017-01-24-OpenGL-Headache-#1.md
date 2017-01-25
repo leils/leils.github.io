@@ -12,7 +12,7 @@ In a moment of command-blindness today, I managed to delete my entire repo of de
 
 Except when I tried to re-compile, it failed. At 5%. Looking like this.
 
-![are you kidding me]({{ site.url }}/assets/OpenGl_header_missing.png)
+![are you kidding me]({{ site.url }}/assets/OpenGL_header_missing.png)
 
 How the hell was I not finding 'OpenGL/gl.h'?
 

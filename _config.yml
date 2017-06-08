@@ -8,9 +8,9 @@ highlighter:      pygments
 
 # Setup
 title:            Leia
-tagline:          'BOOMSHAKALAKA'
+tagline:          'Leia Chang - About Me'
 description:      'Programmer, Dancer, Artist'
-url:              http://leiac.me 
+url:              http://leiac.me
 baseurl:          /
 
 author:

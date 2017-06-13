@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Posts &middot; Leia
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/hyde.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
+                                 <link rel="shortcut icon" href="/public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+</head>
+
+
+  <body>
+
+    <div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="/">
+          Leia
+        </a>
+      </h1>
+      <p class="lead">Programmer, Dancer, Artist</p>
+    </div>
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item" href="/">Home</a>
+
+      
+
+      
+      
+        
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="/pages/about.html">About</a>
+          
+        
+      
+        
+      
+        
+          
+            <a class="sidebar-nav-item active" href="/blog/">Posts</a>
+          
+        
+      
+        
+          
+        
+      
+        
+      
+
+    </nav>
+
+    <p>&copy; 2017. All rights reserved.</p>
+  </div>
+</div>
+
+
+    <div class="content container">
+      <div class="page">
+  <h1 class="page-title">Posts</h1>
+  <div class="posts">
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="/2017/01/24/OpenGL-Headache-1.html">
+        DevMoment No. 1 - Where's OpenGL?
+      </a>
+    </h1>
+
+    <span class="post-date">24 Jan 2017</span>
+
+    <p>In a moment of command-blindness today, I managed to delete my entire repo of developing projects. No harm, of course - they were all git repos, and backed up on the internet. Simple matter of going to BitBucket and re-cloning, right? So first things first - grab my last project, re-clone it, get back to working in no time.</p>
+
+<p>Except when I tried to re-compile, it failed. At 5%. Looking like this.</p>
+
+<p><img src="http://leiac.me/assets/OpenGL_header_missing.png" alt="are you kidding me" /></p>
+
+<p>How the hell was I not finding ‘OpenGL/gl.h’?</p>
+
+<p>I still don’t know quite what I did, but it only took 20 minutes for me to go from rendering collision-detecting dogs to not being able to compile squat.</p>
+
+<p>Two hours, a half dozen fix attempts, and many StackOverflow tabs later, I get to this: <a href="http://stackoverflow.com/questions/18647976/missing-opengl-headers-on-mac">Missing OpenGL Headers on Mac</a>, which linked to yet another StackOverflow question … It turns out that even if you have Xcode installed, Command Line Tools doesn’t come with it anymore. Which means the headers I was looking for didn’t even exist at this point.
+Bully.</p>
+
+<p>At least the fix was easy. TLDR:</p>
+
+<pre><code>xcode-select --install
+</code></pre>
+
+<p>Running the above launches a dialogue that allows you to install CLT. And now we’re all back up and running!
+How did I somehow remove my Command Line Tools and OpenGL headers? Still no idea. A few misfired commands can go a long way. Thanks, version control!</p>
+
+  </div>
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="/2017/01/10/medium.html">
+        Stop Being the Intern
+      </a>
+    </h1>
+
+    <span class="post-date">10 Jan 2017</span>
+
+    <p>New post on Medium: <a href="https://medium.com/@leilisms/stop-being-the-intern-31d49c74f167#.t0cb4bxk0">Stop Being The Intern</a></p>
+
+  </div>
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="/2016/08/03/it-begins.html">
+        And So It Begins
+      </a>
+    </h1>
+
+    <span class="post-date">03 Aug 2016</span>
+
+    <p>That’s right, I made about the simplest personal website in existence.</p>
+
+<p>Why? Well, first of all there’s a lot to be said about the use of personal websites for self promotion. It feels like in order to be competitive, you’ve got to have a suave, minimalist business card, a beefed-up portolio, and a pretty website to go along with it.</p>
+
+<p>But in the end, this is a place for me to play around with some web design, see how far I can push GitHub Pages and Jekyll in my experiments. This page might change a lot, and it’s all in good fun. Let’s see if I can hook up a sweet Flickr slideshow embed, or figure out how the heck paginator works.</p>
+
+<p>For anyone else interested in playing around with this, here’s some stuff to start out with:</p>
+
+<ul>
+  <li><a href="https://jekyllrb.com/docs/home/">JekyllRB Docs</a></li>
+  <li><a href="https://help.github.com/categories/github-pages-basics/">Github Pages Basics</a></li>
+</ul>
+
+  </div>
+  
+</div>
+
+<div class="pagination">
+  
+    <span class="pagination-item older">Older</span>
+  
+  
+    <span class="pagination-item newer">Newer</span>
+  
+</div>
+</div>
+
+    </div>
+
+  </body>
+</html>

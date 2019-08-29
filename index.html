@@ -1,10 +1,14 @@
 <!DOCTYPE html>
+<!-- Welcome to my code, feel free to poke around. -->
 <html>
   <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Leia Chang</title>
-    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <link
+      href="https://fonts.googleapis.com/css?family=Montserrat"
+      rel="stylesheet"
+    />
   </head>
   <style>
     :root {
@@ -12,7 +16,7 @@
       --darkblue: #6aa0f7;
     }
     body {
-      font-family: 'Montserrat', sans-serif;
+      font-family: "Montserrat", sans-serif;
       font-size: 20px;
       position: absolute;
       top: 50%;
@@ -23,10 +27,14 @@
       text-transform: uppercase;
       color: var(--grey);
       font-size: 20px;
-      letter-spacing: .5em;
+      letter-spacing: 0.5em;
     }
     .row {
-        display: flex;
+      display: flex;
+      border-top: 2px solid var(--darkblue);
+    }
+    .row:first-of-type {
+      border: 0;
     }
 
     @media (max-width: 800px) {
@@ -36,10 +44,10 @@
     }
 
     .column {
-        padding: 15px;
-        flex: 50%;
-        border-left: 2px solid var(--darkblue);
-        width: 400px;
+      padding: 15px;
+      flex: 50%;
+      border-left: 2px solid var(--darkblue);
+      width: 400px;
     }
     a {
       text-decoration: none;
@@ -54,22 +62,47 @@
     }
   </style>
   <body>
-    <div class='row'>
-      <div class='column'>
+    <div class="row">
+      <div class="column">
         <h1>Hey, I'm Leia.</h1>
         <p>
-          I'm a fullstack web dev at <a href='https://squareup.com/'>Square</a>, hobby artist and <a href='https://www.instagram.com/leia.see/'>photographer</a>,
-          and an aspiring jack-of-all-trades with too many interests.
+          I'm a fullstack web developer at
+          <a href="https://squareup.com/">Square</a>, hobby artist and
+          <a href="https://www.instagram.com/leia.see/">photographer</a>, and an
+          aspiring jack-of-all-trades with too many interests.
         </p>
       </div>
 
-      <div class='column'>
+      <div class="column">
         <h1>Find me on</h1>
         <ul>
-          <li><a href='https://twitter.com/it_leia'>twitter @it_leia</a></li>
-          <li><a href='https://www.instagram.com/leia.see/'>insta @leia.see</a></li>
-          <li><a href='https://medium.com/@leia.write'>medium @leia.write</a></li>
-          <li><a href='mailto:e.leiachang@gmail.com'>email me</a></li>
+          <li><a href="https://twitter.com/it_leia">twitter @it_leia</a></li>
+          <li>
+            <a href="https://www.instagram.com/leia.see/">insta @leia.see</a>
+          </li>
+          <li>
+            <a href="https://medium.com/@leia.write">medium @leia.write</a>
+          </li>
+          <li><a href="mailto:e.leiachang@gmail.com">email me</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="column">
+        <h1>Fun Project Highlights</h1>
+        <ul>
+          <li>
+            <a href="https://leiac.me/todays-colour-fortune">Colour Fortunes</a>
+          </li>
+          <li>
+            <a href="https://leiac.me/dance-visualization">Mo-cap Dance Vis</a>
+          </li>
+          <li>
+            <a href="http://programmydance.blogspot.com/"
+              >EL Wire Dance Suits</a
+            >
+          </li>
         </ul>
       </div>
     </div>

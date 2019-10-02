@@ -19,10 +19,9 @@ h1 {
 .row {
   display: flex;
   justify-content: space-around;
-  border-top: 2px solid var(--darkblue);
 }
-.row:first-of-type {
-  border: 0;
+.row:last-of-type {
+  border-top: 2px solid var(--darkblue);
 }
 
 .imgblock {
@@ -37,6 +36,9 @@ h1 {
   flex: 50%;
   border-left: 2px solid var(--darkblue);
   width: 400px;
+}
+.column:first-of-type {
+  border-left: 0;
 }
 
 @media (max-width: 800px) {

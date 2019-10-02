@@ -18,10 +18,18 @@ h1 {
 }
 .row {
   display: flex;
+  justify-content: space-around;
   border-top: 2px solid var(--darkblue);
 }
 .row:first-of-type {
   border: 0;
+}
+
+.imgblock {
+  width: 250px;
+  height: 250px;
+  border-radius: 20px;
+  margin-bottom: 20px;
 }
 
 .column {
@@ -37,6 +45,10 @@ h1 {
   }
   .column {
     width: auto;
+  }
+  .imgblock {
+    width: 100px;
+    height: 100px;
   }
   body {
     position: absolute;

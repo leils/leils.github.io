@@ -1,6 +1,6 @@
 ---
 title: Soft
-date: "2019-11-20T22:40:32.169Z"
+date: "2019-10-20"
 description: projection mapping onto soft bodies
 thumbnail: ./still1.jpg
 ---

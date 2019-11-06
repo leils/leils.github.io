@@ -20,9 +20,8 @@ const AboutPage = ({ data }, location) => {
           <h2 id="title">Who is Leia?</h2>
           <p>
             Leia is a programmer and artist based in the Bay Area. Currently a
-            frontend developer for Square, she is an active advocate for Women
-            in Engineering as well as organizer and mentor for Women in
-            Engineering communities.
+            frontend developer for Square, she is an active advocate, organizer,
+            and mentor for Women in Engineering communities.
           </p>
           <p>
             In her spare time, Leia is a budding artist using both traditional

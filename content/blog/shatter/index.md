@@ -1,6 +1,6 @@
 ---
 title: Shatter
-date: "2019-11-5"
+date: "2019-11-05"
 description: shatter simulation
 thumbnail: ./still1.png
 ---

@@ -18,6 +18,4 @@ There are two phases to the piece, both projected onto the soft background textu
 
 ![Soft Projections2](./still3.jpg)
 
-![Soft Projections Video](./video1.MOV)
-
-Used in this piece: MadMapper, UO Smartbeam Laser Projector, Webcam & Sheepskin
+_Used in this piece: MadMapper, UO Smartbeam Laser Projector, Webcam & Sheepskin_

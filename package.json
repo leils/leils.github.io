@@ -7,9 +7,6 @@
   "bugs": {
     "url": "https://github.com/ImedAdel/gatsby-london/issues"
   },
-  "scripts": {
-    "deploy": "gatsby build && gh-pages -d public -b master"
-  },
   "dependencies": {
     "gatsby": "^2.4.2",
     "gatsby-image": "^2.0.41",
@@ -70,7 +67,8 @@
     "format": "prettier --write src/**/*.{js,jsx}",
     "start": "npm run develop",
     "serve": "gatsby serve",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
+    "deploy": "gatsby build && gh-pages -d public -b master"
   },
   "husky": {
     "hooks": {

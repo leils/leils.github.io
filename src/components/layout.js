@@ -57,6 +57,14 @@ const Layout = props => {
               >
                 Instagram
               </a>
+              <a
+                href="https://codepen.io/leils"
+                title="CodePen"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                CodePen
+              </a>
             </div>
           </div>
         </div>

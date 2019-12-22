@@ -14,7 +14,7 @@ There are two phases to the piece, both projected onto the soft background textu
 
 2. **And Me** turns the piece into an altered mirror. In **And Me**, the viewer will see a projection of themselves, morphed by both the texture of the projection surface and an added layer of partial blur. This phase provides a space for exploration on the clarity of self-image.
 
-<iframe src="https://player.vimeo.com/video/380180663" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/380180663" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ![Soft Projections](./still2.jpg)
 

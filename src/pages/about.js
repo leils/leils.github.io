@@ -1,5 +1,5 @@
 import React from "react"
-import { graphql, StaticQuery } from "gatsby"
+import { graphql, StaticQuery, Link } from "gatsby"
 import Img from "gatsby-image"
 
 import Layout from "../components/layout"
@@ -27,6 +27,10 @@ const AboutPage = ({ data }, location) => {
             In her spare time, Leia is a budding artist using both traditional
             and New media to explore the tension between comfort and the
             unknown. She is an avid Maker, Tinkerer, and Sometimes-Photographer.
+          </p>
+          <p>
+            For more of her past work, check out Leia's{" "}
+            <Link to={`/portfolio`}>static portfolio</Link>.
           </p>
         </div>
       </article>

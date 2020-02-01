@@ -25,10 +25,14 @@ I'd been fascinated with half-seen objects and people for a while. But with this
 
 Breaking the mirror could be seen as a mistake, but by including it in the piece it becomes intended play. One of my goals was to allow the audience to interact with their internal lens, both trying to clarify it and shaping it in the process.
 
-<!-- ![BTS - ideation sketches 1](./Paper.Mirror.1.PNG) -->
+![BTS - ideation sketches 1](./sketch1.jpg)
+
+I started with some sketches, as you always do.
 
 ![BTS - ideation sketches 2](./Paper.Mirror.2.PNG)
 ![BTS - ideation sketches 3](./Paper.Mirror.3.PNG)
+
+The idea just never left my mind, and eventually, started to seep into other pieces as well. You might notice a theme amongst the other posts here, and in fact, they're quite related. My _Shatter_ experiment, done in P5 and Tone.js, is the inspiration for the cracked glass effect that you see in this project. I even tested the idea for the foggy mirror in _Soft_, my foray into projetion mapping on soft bodies.
 
 <!-- TODO tests with shatter -->
 <!-- ![BTS - ideation sketches 4](./Paper.Mirror.4.PNG) -->
@@ -38,8 +42,11 @@ Breaking the mirror could be seen as a mistake, but by including it in the piece
 
 ![BTS - ideation sketches 8](./Paper.Mirror.8.PNG)
 
+Finally, the piece was put together by hand. It is a monitor encased in a wooden vanity, each board of the frame cut by hand using a push saw. After a few trials, it all came together.
 ![BTS - woodworking 1](./woodworking1.jpg)
 ![BTS - woodworking 2](./woodworking2.jpg)
+
+All in all, this piece was a remarkable success for me. There are still tweaks to be made, of course. I'd like to make the interactions clearer, and encourage audience interaction by the use of some sort of non-verbal prompt.
 
 <!-- TODO carpentering the whole thing -->
 

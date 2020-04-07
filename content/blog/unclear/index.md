@@ -3,6 +3,7 @@ title: Unclear
 date: "2019-12-20"
 description: exploring self-recognition and meditation
 thumbnail: ./wipe-still1.png
+tags: ["showcase", "portfolio"]
 ---
 
 _Unclear_ is an exploration in self-recognition. In meditation, the only way to get a grasp on the Self is through letting go, allowing the changing nature of your experience be the window into what is really going on beneath. _Unclear_ asks the questions; How do you shape yourself? What does seeing yourself mean?

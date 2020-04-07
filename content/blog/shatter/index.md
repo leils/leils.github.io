@@ -3,6 +3,7 @@ title: Shatter
 date: "2019-10-05"
 description: shatter simulation
 thumbnail: ./still1.png
+tags: ["showcase", "portfolio"]
 ---
 
 **Shatter** allows you all the anxiety of breaking your screen, with all the satisfaction of having done it on purpose.

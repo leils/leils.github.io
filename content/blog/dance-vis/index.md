@@ -3,6 +3,7 @@ title: Dance Vis
 date: "2017-06-01"
 description: 3d rendered mo-cap
 thumbnail: ./skeldrag3.png
+tags: ["showcase", "portfolio"]
 ---
 
 This project aims to explore different outlets for artistic rendering of dance movement. Here, motion captured dancer movement is visualized in 3d via an OpenGL graphics pipeline, portraying the dancer as a skeleton with various ribbons tracing the dancers' movements through space.

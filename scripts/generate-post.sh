@@ -29,8 +29,8 @@ cat << EOF > $FILENAME
 ---
 title: $TITLE
 date: "$d"
-descripton: $DESCRIPTION
-tags:
+description: $DESCRIPTION
+tags: []
 ---
 placeholder text
 EOF

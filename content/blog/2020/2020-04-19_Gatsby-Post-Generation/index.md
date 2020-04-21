@@ -20,25 +20,29 @@ tags: ["tag1", "tag2"]
 ---
 ```
 
-While it's not that much boilerplate to write, adding this over and over again can be annoying. Writing in dates is also a task fraught with potential for errors, especially if you happen to use those dates in your directory hierarchy. My blog content is nested first by year and then by a combination of date + name, like this:
+While it's not that much boilerplate to write, adding this over and over again
+can be annoying. If you make a mistake in your date, your posts will show up
+out of order. If you happen to use those dates in your directory hierarchy, you end up copying today's date over and over for each post. My blog content is nested first by year and then by a combination
+of date + name, like this:
 
 ```
 blog
   2020
-    2020-04-19_gatsby-post-generation
+    2020-04-19_post-title
       index.md
+      img.png
 ```
 
 I wanted this script to:
 
-1. Handle date insertion for me
-2. Convert the post title into a usable format for directory naming
-3. Create the necessary directories, including year
-4. Insert the frontmatter with the provided title and description
+1. Build the directory structure, including the parent-year directory if it doesn't exist
+2. Name the post directory with a combination of today's date and the post title
+3. Create an `index.md` markdown file with frontmatter, including the provided title and description
+4. Handle inserting today's date wherever necessary
 
 ---
 
-TLDR: Here's the script.
+## TLDR: Here's the script.
 
 ```
 #!/bin/sh
@@ -82,7 +86,7 @@ placeholder text
 EOF
 ```
 
-I put this file in `/scripts` in the parent folder of this website, and added the following line to `scripts` in `package.json`:
+I put this file in `/scripts` in the parent folder of this website, and added the following line to `scripts` in `package.json` to let me call the script through yarn:
 
 ```
 "generate-post": ". ./scripts/generate-post.sh"
@@ -106,4 +110,4 @@ tags: []
 placeholder text
 ```
 
-Feel free to take this script and make it your own. Happy generating!
+Pretty simple, and I've already spent too much time on it. Feel free to take this script and make it your own. Happy generating!

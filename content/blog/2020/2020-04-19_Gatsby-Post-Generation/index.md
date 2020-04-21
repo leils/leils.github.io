@@ -21,7 +21,7 @@ tags: ["tag1", "tag2"]
 ```
 
 While it's not that much boilerplate to write, adding this over and over again
-can be annoying. If you make a mistake in your date, your posts will show up
+can be annoying. If you make a mistake in your date, your posts can show up
 out of order. If you happen to use those dates in your directory hierarchy, you end up copying today's date over and over for each post. My blog content is nested first by year and then by a combination
 of date + name, like this:
 

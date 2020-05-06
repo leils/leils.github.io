@@ -3,7 +3,7 @@ import { graphql, StaticQuery } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import PostCard from "../components/postCard"
+import BlogPostCard from "../components/blogPostCard"
 
 import "../utils/normalize.css"
 import "../utils/css/screen.css"
@@ -25,7 +25,7 @@ const BlogIndex = ({ data }, location) => {
         {posts.map(({ node }) => {
           postCounter++
           return (
-            <PostCard
+            <BlogPostCard
               key={node.fields.slug}
               count={postCounter}
               node={node}

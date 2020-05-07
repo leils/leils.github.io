@@ -4,6 +4,8 @@ import { Link } from "gatsby"
 const Layout = props => {
   const { title, children } = props
   const [toggleNav, setToggleNav] = React.useState(false)
+  const pagePath =  window !== 'undefined' ? window.location.pathname.split('/')[1] : '';
+
   return (
     <div className={`site-wrapper ${toggleNav ? `site-head-open` : ``}`}>
       <header className="site-head">
@@ -24,15 +26,15 @@ const Layout = props => {
               </div>
             </div>
           </a>
-          <nav id="swup" class="site-head-left">
+          <nav id="swup" className="site-head-left">
             <ul className="nav" role="menu">
-              <li className="nav-home nav-current" role="menuitem">
+              <li className={`nav-home ${pagePath == '' && `nav-current`}`} role="menuitem">
                 <Link to={`/`}>Home</Link>
               </li>
-              <li className="nav-about" role="menuitem">
+              <li className={`nav-home ${pagePath == 'about' && `nav-current`}`} role="menuitem">
                 <Link to={`/about`}>About</Link>
               </li>
-              <li className="nav-blog" role="menuitem">
+              <li className={`nav-home ${pagePath == 'blog' && `nav-current`}`} role="menuitem">
                 <Link to={`/blog`}>Blog</Link>
               </li>
             </ul>

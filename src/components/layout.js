@@ -4,7 +4,8 @@ import { Link } from "gatsby"
 const Layout = props => {
   const { title, children } = props
   const [toggleNav, setToggleNav] = React.useState(false)
-  const pagePath =  window !== 'undefined' ? window.location.pathname.split('/')[1] : '';
+  const pagePath =  typeof window !== 'undefined' ? window.location.pathname.split('/')[1] : '';
+  // const pagePath = 'home';
 
   return (
     <div className={`site-wrapper ${toggleNav ? `site-head-open` : ``}`}>

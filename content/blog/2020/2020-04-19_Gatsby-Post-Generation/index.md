@@ -2,7 +2,7 @@
 title: Gatsby Post Generation
 date: "2020-04-19"
 description: Simple bash scripting to generate Gatsby blog posts
-tags: ["blog", "code", "Gatsby"]
+tags: ["blog", "code", "Gatsby", "shell"]
 ---
 
 In a classic case of [ignoring XKCD's advice](https://xkcd.com/1205/), I threw together a simple script to generate Gatsby blog posts files. I'm sure other generating scripts exist out there on the internet, but a cursory search didn't return any that fit my needs.
@@ -111,3 +111,19 @@ placeholder text
 ```
 
 Pretty simple, and I've already spent too much time on it. Feel free to take this script and make it your own. Happy generating!
+
+---
+A quick update 6/9/2020:
+
+In preparation for migrating a few of my pieces from Medium to this blog, I needed the ability to optionally define the date for the post. I added this by making the following changes to the `#generate variables` portion of the script:
+
+```
+d=${3:-`date +%Y-%m-%d`}
+y=`echo $d | cut -c1-4`
+```
+
+This does two things:
+1. Sets the date to one passed in (expecting a YYYY-DD-MM format), otherwise uses `date`.
+2. Sets the year to the first 4 characters of the datestring (where it was previously generated using `date`, redundantly).
+
+Also, you can now [grab the code from this codebin](http://codebin.herokuapp.com?s=5f07bc45e7615a0004000001), hope that's a little more useful.

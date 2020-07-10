@@ -3,8 +3,10 @@
 #define parameters which are passed in.
 TITLE=$1
 DESCRIPTION=$2
-d=`date +%Y-%m-%d`
-y=`date +%Y`
+
+# define variables
+d=${3:-`date +%Y-%m-%d`}
+y=`echo $d | cut -c1-4`
 CLEANED_TITLE=${TITLE// /-}
 PARENT_DIRNAME="content/blog/${y}"
 DIRNAME="${PARENT_DIRNAME}/${d}_${CLEANED_TITLE}"

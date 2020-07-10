@@ -5,7 +5,6 @@ const Layout = props => {
   const { title, children } = props
   const [toggleNav, setToggleNav] = React.useState(false)
   const pagePath =  typeof window !== 'undefined' ? window.location.pathname.split('/')[1] : '';
-  // const pagePath = 'home';
 
   return (
     <div className={`site-wrapper ${toggleNav ? `site-head-open` : ``}`}>

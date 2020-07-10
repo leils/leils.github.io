@@ -10,9 +10,7 @@ export default props => (
             <h2 className="blog-post-card-title">
               {props.node.frontmatter.title || props.node.fields.slug}
             </h2>
-            <h3 className="blog-post-card-subtitle">
-              {props.node.frontmatter.description}
-            </h3>
+            <p> - {props.node.frontmatter.description}</p>
           </div>
           <div className="blog-post-card-date">
             {props.node.frontmatter.date}

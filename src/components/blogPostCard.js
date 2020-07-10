@@ -18,7 +18,6 @@ export default props => (
             {props.node.frontmatter.date}
           </div>
         </div>
-        <p className="blog-post-card-description">{props.node.excerpt}</p>
       </div>
     </Link>
   </article>

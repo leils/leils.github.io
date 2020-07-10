@@ -2,7 +2,7 @@
 title: Twilio for Door Intercoms
 date: "2019-11-12"
 description: Renters, woe no more.
-tags: ["blog", "code", "twilio"]
+tags: ["blog", "code", "Twilio"]
 thumbnail: ./doorbell-hero.jpeg
 ---
 *Photo by Bernard Hermant on Unsplash*

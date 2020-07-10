@@ -495,12 +495,13 @@ body {
   }
 }
 
-/* Post Feed
+/* Blog Post Feed
 /* ---------------------------------------------------------- */
 
 .blog-post-feed {
   display: flex;
   flex-wrap: wrap;
+  max-width: 800px;
 }
 
 .blog-post-card {
@@ -530,6 +531,7 @@ body {
 .blog-post-card-date {
   text-align: right;
   padding: .5em;
+  font-size: small;
 }
 
 .blog-post-card-title {
@@ -537,7 +539,7 @@ body {
   font-size: 3.4rem;
   text-align: center;
   transition: all 0.3s cubic-bezier(0.33, 0, 0.2, 1);
-  font-size: 5rem;
+  font-size: 1.2em;
   line-height: 1.15em;
   text-align: left;
 }
@@ -545,7 +547,7 @@ body {
 .blog-post-card-subtitle {
   color: var(--color-base);
   opacity: 0.5;
-  font-size: 2.5rem;
+  font-size: 1em;
   transition: all 0.3s cubic-bezier(0.33, 0, 0.2, 1);
   margin: -0.2em 0 0.5em 0;
 }
@@ -561,7 +563,7 @@ body {
 
   .blog-post-card-date {
     text-align: left;
-    font-size: 0.5em;
+    font-size: small;
     padding: 0;
   }
 

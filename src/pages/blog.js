@@ -20,7 +20,7 @@ const BlogIndex = ({ data }, location) => {
         {data.site.siteMetadata.description && (
           <h2>Blog & Writing</h2>
         )}
-        <div className="post-feed">
+        <div className="blog-post-feed">
           {posts.map(({ node }) => {
             postCounter++
             return (

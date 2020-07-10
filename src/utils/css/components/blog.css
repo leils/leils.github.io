@@ -1,0 +1,57 @@
+/* Blog Post Feed
+/* ---------------------------------------------------------- */
+
+.blog-post-feed {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 800px;
+}
+
+.blog-card-contents {
+  display: inherit;
+  flex-direction: inherit;
+}
+
+.blog-card-title {
+  color: black;
+  font-size: 1em;
+  font-weight: bold;
+  white-space: nowrap;
+  padding: 0 8px;
+  margin: 0 4px 0 0;
+  background-color: rgb(193,201,207);
+  border-radius: 8px;
+}
+
+.blog-card-p {
+  color: black;
+  font-size: .8em;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.blog-card-date {
+  color: gray;
+  font-size: small;
+  text-align: right;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.blog-post-card {
+  position: relative;
+  overflow: hidden;
+  counter-increment: posts;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 500px) {
+  .blog-post-card {
+    flex-direction: column;
+  }
+}

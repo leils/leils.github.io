@@ -35,7 +35,7 @@ const Layout = props => {
                 <Link to={`/about`}>About</Link>
               </li>
               <li className={`nav-home ${pagePath == 'blog' && `nav-current`}`} role="menuitem">
-                <Link to={`/blog`}>Blog</Link>
+                <Link to={`/blog`}>Writing</Link>
               </li>
             </ul>
           </nav>

@@ -18,6 +18,7 @@ production stylesheet in assets/built/screen.css using gulp dev
 @import "components/actions.css";
 @import "components/hamburger.css";
 @import "components/animations.css";
+@import "components/blog.css";
 
 /* Main - Theme styles
 /* ---------------------------------------------------------- */

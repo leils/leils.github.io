@@ -1,6 +1,7 @@
 import React from "react"
 import { graphql, StaticQuery, Link } from "gatsby"
 import Img from "gatsby-image"
+import Helmet from "react-helmet"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -12,18 +13,17 @@ const AboutPage = ({ data }, location) => {
   const siteTitle = data.site.siteMetadata.title
 
   return (
-    <Helmet>
-    <script type="text/javascript">
-      /* curator-feed-default-feed-layout */
-      (function(){
-        var i, e, d = document, s = "script";i = d.createElement("script");i.async = 1;
-        i.src = "https://cdn.curator.io/published/64590b28-e330-43d2-a8ee-977195de720e.js";
-        e = d.getElementsByTagName(s)[0];e.parentNode.insertBefore(i, e);
-      })();
-      </script>
-    </Helmet>
-
     <Layout title={siteTitle}>
+      <Helmet>
+        <script type="text/javascript">{`
+        (function(){
+          var i, e, d = document, s = "script";i = d.createElement("script");i.async = 1;
+          i.src = "https://cdn.curator.io/published/64590b28-e330-43d2-a8ee-977195de720e.js";
+          e = d.getElementsByTagName(s)[0];e.parentNode.insertBefore(i, e);
+        })();
+        `}</script>
+      </Helmet>
+
       <SEO title="About" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
 
       <article className="post-content page-template no-image">
@@ -45,7 +45,11 @@ const AboutPage = ({ data }, location) => {
           </p>
         </div>
 
-        <div id="curator-feed-default-feed-layout"><a href="https://curator.io" target="_blank" class="crt-logo crt-tag">Powered by Curator.io</a></div>
+        <div id="curator-feed-default-feed-layout">
+          <a href="https://curator.io" target="_blank" class="crt-logo crt-tag">
+            Powered by Curator.io
+          </a>
+        </div>
       </article>
     </Layout>
   )

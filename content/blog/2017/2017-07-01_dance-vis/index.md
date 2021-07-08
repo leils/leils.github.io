@@ -18,6 +18,7 @@ The program included multiple modes, including one where a "brushstroke" texture
 Finally, the motion-capture was ported to Unity, through which it was rendered in VR on both Android and iPhone devices.
 ![VR Port](./VR_Skeleton.png)
 
+While the project was limited to pre-recorded motion capture of swing dancers, it is feasible to imagine this same pipeline getting input from live motion capture data, encouraging even more interaction and play with the performer.
 To read the full report, click [here](https://leiac.me/dance-visualization).
 
 _Used in this piece: OpenCV, Unity_

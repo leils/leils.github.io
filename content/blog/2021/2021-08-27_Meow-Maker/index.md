@@ -24,6 +24,7 @@ A couple of desired interactions:
 - The timer "yells" when it's "hungry" 
 
 I tore the core out of a [60 minute focus timer](https://amazon.com/gp/product/B07PRZ5BXS) to see how it works. Turns out, it's almost exactly the same as an egg timer: a series of springs and pendulums, attached to a dial (and a hammer to ring the alarm). 
+
 ![Image of the internal system in a mechanical timer dial](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/cat-timer%2FD5611CEA-F553-4C7F-96CB-B6DF3CC2197B.jpg?alt=media&token=f07aea85-54f7-41cd-96d2-6c8df5bd391a)
 
 Lucky for me, the dial was a press-fit onto the mechanism, so I could easily replace it with something custom. 
@@ -36,7 +37,7 @@ It took a few tries to make sure the two pieces mated well; between the toleranc
 
 ![3D Printed piece mounted to timer internals](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/cat-timer%2FB10A35AC-96A4-46D9-973F-59EE4F08C998.jpg?alt=media&token=15d10ef4-c50d-420d-ade2-5475aae08370)
 
-Now that the fit seemed snug, 
+Now that the fit seemed snug, I could move on to translating the shape I imagined onto the part itself. 
 
 
 ### The final product
@@ -46,7 +47,7 @@ In order to *"feed"* the cat, you push the nose down, effectively closing the ca
 30 minutes later, the cat *"yells"* for more food. 
 ![Image of a timer where the dial is a cat head. The mouth is open to 180 degrees, showing a red panel reading "FEED ME NOW!".](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/3BFCE2CC-18C2-4D7F-9491-39E2339BADC6.jpg?alt=media&token=543c4909-f4a6-4166-9b70-048b0f39e4b9)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMTYxMDgzMywtMjEyNDAzNTU2MiwtMT
-Y1NjI1MjY0MSwtOTQzNDY3ODUwLC0xNzA1OTUwNDgsLTExNjg3
-MDI5MTcsOTgyMTgzNDMyLC02MTg4NzE3NTFdfQ==
+eyJoaXN0b3J5IjpbNzU3OTk2NzcxLC0yMTI0MDM1NTYyLC0xNj
+U2MjUyNjQxLC05NDM0Njc4NTAsLTE3MDU5NTA0OCwtMTE2ODcw
+MjkxNyw5ODIxODM0MzIsLTYxODg3MTc1MV19
 -->

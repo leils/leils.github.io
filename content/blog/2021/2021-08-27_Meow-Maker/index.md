@@ -1,7 +1,7 @@
 ---
-title: Meow Maker
+title: She Hungers 
 date: "2021-08-27"
-description: For when you need a cat to constantly annoy you
+description: For when you miss the cat constantly annoying you
 tags: ["blog", "prototype", "sketch", "3D printing", "prusa", "onshape"]
 seo: ["3d printing", "prototype", "timer", "prusa", "prusa3d", "onshape"]
 
@@ -57,8 +57,8 @@ In order to *"feed"* the cat, you push the nose down, effectively closing the ca
 And the whole family together: 
 ![Timer and previously printed prototypes together](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/cat-timer%2F42B160F0-31D2-432E-B7DC-0C8BB03D196D.jpg?alt=media&token=db3451a7-2eb0-4cc5-ab86-5358439d962d)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk5MzgwNDAyLC04NDYzNDg3NjYsNzU3OT
-k2NzcxLC0yMTI0MDM1NTYyLC0xNjU2MjUyNjQxLC05NDM0Njc4
-NTAsLTE3MDU5NTA0OCwtMTE2ODcwMjkxNyw5ODIxODM0MzIsLT
-YxODg3MTc1MV19
+eyJoaXN0b3J5IjpbLTEzOTM5OTI2NzksOTk5MzgwNDAyLC04ND
+YzNDg3NjYsNzU3OTk2NzcxLC0yMTI0MDM1NTYyLC0xNjU2MjUy
+NjQxLC05NDM0Njc4NTAsLTE3MDU5NTA0OCwtMTE2ODcwMjkxNy
+w5ODIxODM0MzIsLTYxODg3MTc1MV19
 -->

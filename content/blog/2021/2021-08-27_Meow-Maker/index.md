@@ -2,7 +2,7 @@
 title: Meow Maker
 date: "2021-08-27"
 description: For when you need a cat to constantly annoy you
-tags: ["sketch", "3D printing", "prusa", "onshape"]
+tags: ["blog", "sketch", "3D printing", "prusa", "onshape"]
 ---
 # Meow Master
 Earlier this month I moved across the country to attend NYU ITP, the Interactive Telecommunications Program. This has meant leaving a darling, snuggly cat behind in San Francisco (as well as my dear partner, but that's beside the point). 
@@ -27,6 +27,6 @@ In order to "feed" the cat, you push the nose down, effectively closing the cat'
 30 minutes later, the cat "yells" for more food. 
 ![Image of a timer where the dial is a cat head. The mouth is open to 180 degrees, showing a red panel reading "FEED ME NOW!".](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/3BFCE2CC-18C2-4D7F-9491-39E2339BADC6.jpg?alt=media&token=543c4909-f4a6-4166-9b70-048b0f39e4b9)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDU5NTA0OCwtMTE2ODcwMjkxNyw5OD
-IxODM0MzIsLTYxODg3MTc1MV19
+eyJoaXN0b3J5IjpbLTk0MzQ2Nzg1MCwtMTcwNTk1MDQ4LC0xMT
+Y4NzAyOTE3LDk4MjE4MzQzMiwtNjE4ODcxNzUxXX0=
 -->

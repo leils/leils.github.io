@@ -45,8 +45,7 @@ A few iterations later ...
 
 ![3D print of cat's head dial and jaw, with mount and cutout for movement](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/cat-timer%2FE1D86A27-96A2-4219-B9CD-D81EFEB3A0E9.jpg?alt=media&token=f92407f6-0d3d-4777-be8b-59fd5d98e62e)
 
-And the whole family together: 
-![Timer and previously printed prototypes together](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/cat-timer%2F42B160F0-31D2-432E-B7DC-0C8BB03D196D.jpg?alt=media&token=db3451a7-2eb0-4cc5-ab86-5358439d962d)
+A few tweaks, some final touch
 
 ### The final product
 
@@ -54,8 +53,11 @@ And the whole family together:
 In order to *"feed"* the cat, you push the nose down, effectively closing the cat's mouth. 
 30 minutes later, the cat *"yells"* for more food. 
 ![Image of a timer where the dial is a cat head. The mouth is open to 180 degrees, showing a red panel reading "FEED ME NOW!".](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/3BFCE2CC-18C2-4D7F-9491-39E2339BADC6.jpg?alt=media&token=543c4909-f4a6-4166-9b70-048b0f39e4b9)
+
+And the whole family together: 
+![Timer and previously printed prototypes together](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/cat-timer%2F42B160F0-31D2-432E-B7DC-0C8BB03D196D.jpg?alt=media&token=db3451a7-2eb0-4cc5-ab86-5358439d962d)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODE1NTA2NjgsLTg0NjM0ODc2Niw3NT
+eyJoaXN0b3J5IjpbLTEwNzMxMjA0MTcsLTg0NjM0ODc2Niw3NT
 c5OTY3NzEsLTIxMjQwMzU1NjIsLTE2NTYyNTI2NDEsLTk0MzQ2
 Nzg1MCwtMTcwNTk1MDQ4LC0xMTY4NzAyOTE3LDk4MjE4MzQzMi
 wtNjE4ODcxNzUxXX0=

@@ -2,7 +2,9 @@
 title: Meow Maker
 date: "2021-08-27"
 description: For when you need a cat to constantly annoy you
-tags: ["blog", "prototype", "3D printing", "prusa", "onshape"]
+tags: ["blog", "prototype", "sketch", "3D printing", "prusa", "onshape"]
+seo: ["3d printing", "prototype", "timer", "prusa", "prusa3d", "onshape"]
+
 ---
 Earlier this month I moved across the country to attend NYU ITP, the 2-year Interactive Telecommunications Program. This has meant leaving a darling, snuggly cat behind in San Francisco (as well as my dear partner, but that's beside the point). 
 
@@ -21,7 +23,7 @@ A couple of desired interactions:
 - The audience gets to  "push down" the nose to reset the timer 
 - The timer "yells" when it's "hungry" 
 
-I tore the core out of a [60 minute focus timer](https://amazon.com/gp/product/B07PRZ5BXS) to see how it works. Turns out, it's almost exactly the same as an egg timer: a series of springs and pendulums, attached to a dial (and a 
+I tore the core out of a [60 minute focus timer](https://amazon.com/gp/product/B07PRZ5BXS) to see how it works. Turns out, it's almost exactly the same as an egg timer: a series of springs and pendulums, attached to a dial (and a hammer to ring the alarm). 
 ![Image of the internal system in a mechanical timer dial](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/cat-timer%2FD5611CEA-F553-4C7F-96CB-B6DF3CC2197B.jpg?alt=media&token=f07aea85-54f7-41cd-96d2-6c8df5bd391a)
 
 I spent some time learning about 3d printing, using **OnShape** to create the CAD elements, and a **Prusa3d** to print. These are some pretty basic shapes, but they had to be modeled to fit the pre-existing parts on the timer itself. 
@@ -31,7 +33,7 @@ In order to "feed" the cat, you push the nose down, effectively closing the cat'
 30 minutes later, the cat "yells" for more food. 
 ![Image of a timer where the dial is a cat head. The mouth is open to 180 degrees, showing a red panel reading "FEED ME NOW!".](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/3BFCE2CC-18C2-4D7F-9491-39E2339BADC6.jpg?alt=media&token=543c4909-f4a6-4166-9b70-048b0f39e4b9)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzUxNzU1ODAsLTk0MzQ2Nzg1MCwtMT
+eyJoaXN0b3J5IjpbLTE2NTYyNTI2NDEsLTk0MzQ2Nzg1MCwtMT
 cwNTk1MDQ4LC0xMTY4NzAyOTE3LDk4MjE4MzQzMiwtNjE4ODcx
 NzUxXX0=
 -->

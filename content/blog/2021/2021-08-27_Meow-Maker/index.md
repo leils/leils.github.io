@@ -11,14 +11,14 @@ To make missing this fuzzy friend a little easier, I made a little timer to simu
 
 *[insert gif here]*
 
-It all started here: ![Picture of a paper cutout in the silhouette of a cat head and jaw, over sketches of a cat head that opens/closes its jaw](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/Cat%20Timer/E2B92FE4-0BCE-4A84-889F-A5C7CDB08EF6.jpg?alt=media&token=57083737-c432-48c7-8a87-9c5e9a545ea6)
+It all started here: ![Picture of a paper cutout in the silhouette of a cat head and jaw, over sketches of a cat head that opens/closes its jaw](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/cat-timer%2FE2B92FE4-0BCE-4A84-889F-A5C7CDB08EF6.jpg?alt=media&token=42a09256-3804-4575-a60f-c5a85ffac8e0)
 
 I wanted this piece to: 
 1. Be physically interactive 
 2. Run mechanically, not digitally 
 3. Have a sense of whimsy 
 
-![enter image description here](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/Cat%20Timer/D5611CEA-F553-4C7F-96CB-B6DF3CC2197B.jpg?alt=media&token=c5aca283-d776-430f-987d-770d3de5d085)
+![Image of the internal system in a mechanical timer dial](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/cat-timer%2FD5611CEA-F553-4C7F-96CB-B6DF3CC2197B.jpg?alt=media&token=f07aea85-54f7-41cd-96d2-6c8df5bd391a)
 
 I spent a month learning a bit about 3d printing, using **OnShape** to create the CAD elements, and a **Prusa3d** to print. These are some pretty basic shapes, but they had to be modeled to fit the pre-existing parts on the timer itself. 
 
@@ -27,6 +27,7 @@ In order to "feed" the cat, you push the nose down, effectively closing the cat'
 30 minutes later, the cat "yells" for more food. 
 ![Image of a timer where the dial is a cat head. The mouth is open to 180 degrees, showing a red panel reading "FEED ME NOW!".](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/3BFCE2CC-18C2-4D7F-9491-39E2339BADC6.jpg?alt=media&token=543c4909-f4a6-4166-9b70-048b0f39e4b9)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MzQ2Nzg1MCwtMTcwNTk1MDQ4LC0xMT
-Y4NzAyOTE3LDk4MjE4MzQzMiwtNjE4ODcxNzUxXX0=
+eyJoaXN0b3J5IjpbNTExNjM2NjAyLC05NDM0Njc4NTAsLTE3MD
+U5NTA0OCwtMTE2ODcwMjkxNyw5ODIxODM0MzIsLTYxODg3MTc1
+MV19
 -->

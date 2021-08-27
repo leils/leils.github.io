@@ -11,7 +11,7 @@ To make missing this fuzzy friend a little easier, I made a little timer to simu
 
 *[insert gif here]*
 
-It all started here: ![enter image description here](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/Cat%20Timer/E2B92FE4-0BCE-4A84-889F-A5C7CDB08EF6.jpg?alt=media&token=57083737-c432-48c7-8a87-9c5e9a545ea6)
+It all started here: ![Picture of a paper cutout in the silhouette of a cat head and jaw, over sketches of a cat head ](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/Cat%20Timer/E2B92FE4-0BCE-4A84-889F-A5C7CDB08EF6.jpg?alt=media&token=57083737-c432-48c7-8a87-9c5e9a545ea6)
 
 I spent a month learning a bit about 3d printing, using **OnShape** to create the CAD elements, and a **Prusa3d** to print. These are some pretty basic shapes, but they had to be modeled to fit the pre-existing parts 
 
@@ -20,6 +20,6 @@ In order to "feed" the cat, you push the nose down, effectively closing the cat'
 30 minutes later, the cat "yells" for more food. 
 ![Image of a timer where the dial is a cat head. The mouth is open to 180 degrees, showing a red panel reading "FEED ME NOW!".](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/3BFCE2CC-18C2-4D7F-9491-39E2339BADC6.jpg?alt=media&token=543c4909-f4a6-4166-9b70-048b0f39e4b9)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2OTI5MjU2MSw5ODIxODM0MzIsLTYxOD
-g3MTc1MV19
+eyJoaXN0b3J5IjpbODI1Njc1MDQ1LDk4MjE4MzQzMiwtNjE4OD
+cxNzUxXX0=
 -->

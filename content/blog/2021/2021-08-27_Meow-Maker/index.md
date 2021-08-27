@@ -29,7 +29,7 @@ I tore the core out of a [60 minute focus timer](https://amazon.com/gp/product/B
 Lucky for me, the dial was a press-fit onto the mechanism, so I could easily replace it with something custom. 
 
 I spent some time learning about 3d printing, using **OnShape** to create the CAD elements, and a **Prusa3d** to print. These are some pretty basic shapes, but they had to be modeled to fit the pre-existing parts on the timer itself. 
-
+![enter image description here](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/cat-timer/CEA7D261-4353-4D3F-83B4-72C367A8BFD2%202.jpg?alt=media&token=3f125920-d68b-4e75-93b8-831404cd51cf)
 
 ### The final product
 
@@ -38,7 +38,7 @@ In order to "feed" the cat, you push the nose down, effectively closing the cat'
 30 minutes later, the cat "yells" for more food. 
 ![Image of a timer where the dial is a cat head. The mouth is open to 180 degrees, showing a red panel reading "FEED ME NOW!".](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/3BFCE2CC-18C2-4D7F-9491-39E2339BADC6.jpg?alt=media&token=543c4909-f4a6-4166-9b70-048b0f39e4b9)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjQwMzU1NjIsLTE2NTYyNTI2NDEsLT
-k0MzQ2Nzg1MCwtMTcwNTk1MDQ4LC0xMTY4NzAyOTE3LDk4MjE4
-MzQzMiwtNjE4ODcxNzUxXX0=
+eyJoaXN0b3J5IjpbMTY2Mjc0MzIwNCwtMjEyNDAzNTU2MiwtMT
+Y1NjI1MjY0MSwtOTQzNDY3ODUwLC0xNzA1OTUwNDgsLTExNjg3
+MDI5MTcsOTgyMTgzNDMyLC02MTg4NzE3NTFdfQ==
 -->

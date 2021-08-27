@@ -45,9 +45,9 @@ A few iterations later ...
 
 ![3D print of cat's head dial and jaw, with mount and cutout for movement](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/cat-timer%2FE1D86A27-96A2-4219-B9CD-D81EFEB3A0E9.jpg?alt=media&token=f92407f6-0d3d-4777-be8b-59fd5d98e62e)
 
-A few tweaks, some final touch
+A few tweaks, some final touches, and we got ...
 
-### The final product
+### The Final Product
 
 ![Image of a timer, the dial is a cat head in profile. The cat faces to the right, its mouth is closed.](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/6F4FA6E9-6104-440B-B7A3-837555684355.jpg?alt=media&token=1ceef497-88f0-4c7f-ae3d-f09b7a9f736b)
 In order to *"feed"* the cat, you push the nose down, effectively closing the cat's mouth. 
@@ -57,8 +57,8 @@ In order to *"feed"* the cat, you push the nose down, effectively closing the ca
 And the whole family together: 
 ![Timer and previously printed prototypes together](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/cat-timer%2F42B160F0-31D2-432E-B7DC-0C8BB03D196D.jpg?alt=media&token=db3451a7-2eb0-4cc5-ab86-5358439d962d)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzMxMjA0MTcsLTg0NjM0ODc2Niw3NT
-c5OTY3NzEsLTIxMjQwMzU1NjIsLTE2NTYyNTI2NDEsLTk0MzQ2
-Nzg1MCwtMTcwNTk1MDQ4LC0xMTY4NzAyOTE3LDk4MjE4MzQzMi
-wtNjE4ODcxNzUxXX0=
+eyJoaXN0b3J5IjpbOTk5MzgwNDAyLC04NDYzNDg3NjYsNzU3OT
+k2NzcxLC0yMTI0MDM1NTYyLC0xNjU2MjUyNjQxLC05NDM0Njc4
+NTAsLTE3MDU5NTA0OCwtMTE2ODcwMjkxNyw5ODIxODM0MzIsLT
+YxODg3MTc1MV19
 -->

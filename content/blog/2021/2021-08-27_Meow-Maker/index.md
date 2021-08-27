@@ -26,14 +26,19 @@ A couple of desired interactions:
 I tore the core out of a [60 minute focus timer](https://amazon.com/gp/product/B07PRZ5BXS) to see how it works. Turns out, it's almost exactly the same as an egg timer: a series of springs and pendulums, attached to a dial (and a hammer to ring the alarm). 
 ![Image of the internal system in a mechanical timer dial](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/cat-timer%2FD5611CEA-F553-4C7F-96CB-B6DF3CC2197B.jpg?alt=media&token=f07aea85-54f7-41cd-96d2-6c8df5bd391a)
 
+Lucky for me, the dial was a press-fit onto the mechanism, so I could easily replace it with something custom. 
+
 I spent some time learning about 3d printing, using **OnShape** to create the CAD elements, and a **Prusa3d** to print. These are some pretty basic shapes, but they had to be modeled to fit the pre-existing parts on the timer itself. 
+
+
+### The final product
 
 ![Image of a timer, the dial is a cat head in profile. The cat faces to the right, its mouth is closed.](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/6F4FA6E9-6104-440B-B7A3-837555684355.jpg?alt=media&token=1ceef497-88f0-4c7f-ae3d-f09b7a9f736b)
 In order to "feed" the cat, you push the nose down, effectively closing the cat's mouth. 
 30 minutes later, the cat "yells" for more food. 
 ![Image of a timer where the dial is a cat head. The mouth is open to 180 degrees, showing a red panel reading "FEED ME NOW!".](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/3BFCE2CC-18C2-4D7F-9491-39E2339BADC6.jpg?alt=media&token=543c4909-f4a6-4166-9b70-048b0f39e4b9)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTYyNTI2NDEsLTk0MzQ2Nzg1MCwtMT
-cwNTk1MDQ4LC0xMTY4NzAyOTE3LDk4MjE4MzQzMiwtNjE4ODcx
-NzUxXX0=
+eyJoaXN0b3J5IjpbLTIxMjQwMzU1NjIsLTE2NTYyNTI2NDEsLT
+k0MzQ2Nzg1MCwtMTcwNTk1MDQ4LC0xMTY4NzAyOTE3LDk4MjE4
+MzQzMiwtNjE4ODcxNzUxXX0=
 -->

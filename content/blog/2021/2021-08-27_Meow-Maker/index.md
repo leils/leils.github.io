@@ -22,8 +22,7 @@ A couple of desired interactions:
 - The audience gets to  "push down" the nose to reset the timer 
 - The timer "yells" when it's "hungry" 
 
-
-
+I tore the core out of a 
 ![Image of the internal system in a mechanical timer dial](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/cat-timer%2FD5611CEA-F553-4C7F-96CB-B6DF3CC2197B.jpg?alt=media&token=f07aea85-54f7-41cd-96d2-6c8df5bd391a)
 
 I spent some time learning about 3d printing, using **OnShape** to create the CAD elements, and a **Prusa3d** to print. These are some pretty basic shapes, but they had to be modeled to fit the pre-existing parts on the timer itself. 
@@ -33,7 +32,7 @@ In order to "feed" the cat, you push the nose down, effectively closing the cat'
 30 minutes later, the cat "yells" for more food. 
 ![Image of a timer where the dial is a cat head. The mouth is open to 180 degrees, showing a red panel reading "FEED ME NOW!".](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/3BFCE2CC-18C2-4D7F-9491-39E2339BADC6.jpg?alt=media&token=543c4909-f4a6-4166-9b70-048b0f39e4b9)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODAwMjM3OTEsLTk0MzQ2Nzg1MCwtMT
-cwNTk1MDQ4LC0xMTY4NzAyOTE3LDk4MjE4MzQzMiwtNjE4ODcx
-NzUxXX0=
+eyJoaXN0b3J5IjpbLTUyNDM5NTA5NCwtOTQzNDY3ODUwLC0xNz
+A1OTUwNDgsLTExNjg3MDI5MTcsOTgyMTgzNDMyLC02MTg4NzE3
+NTFdfQ==
 -->

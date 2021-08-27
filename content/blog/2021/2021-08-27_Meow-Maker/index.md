@@ -18,7 +18,8 @@ I wanted this piece to:
 2. Run mechanically, not digitally 
 3. Have a sense of whimsy 
 
-
+A couple of desired interactions: 
+- You "push down" the nose to 
 
 ![Image of the internal system in a mechanical timer dial](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/cat-timer%2FD5611CEA-F553-4C7F-96CB-B6DF3CC2197B.jpg?alt=media&token=f07aea85-54f7-41cd-96d2-6c8df5bd391a)
 
@@ -29,7 +30,7 @@ In order to "feed" the cat, you push the nose down, effectively closing the cat'
 30 minutes later, the cat "yells" for more food. 
 ![Image of a timer where the dial is a cat head. The mouth is open to 180 degrees, showing a red panel reading "FEED ME NOW!".](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/3BFCE2CC-18C2-4D7F-9491-39E2339BADC6.jpg?alt=media&token=543c4909-f4a6-4166-9b70-048b0f39e4b9)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NjM0MDI2LC05NDM0Njc4NTAsLTE3MD
+eyJoaXN0b3J5IjpbMjU0NDcxMzg4LC05NDM0Njc4NTAsLTE3MD
 U5NTA0OCwtMTE2ODcwMjkxNyw5ODIxODM0MzIsLTYxODg3MTc1
 MV19
 -->

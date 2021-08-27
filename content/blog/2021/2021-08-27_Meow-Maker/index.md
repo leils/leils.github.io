@@ -14,12 +14,15 @@ To make missing this fuzzy friend a little easier, I made a little timer to simu
 It all started here: ![Picture of a paper cutout in the silhouette of a cat head and jaw, over sketches of a cat head that opens/closes its jaw](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/cat-timer%2FE2B92FE4-0BCE-4A84-889F-A5C7CDB08EF6.jpg?alt=media&token=42a09256-3804-4575-a60f-c5a85ffac8e0)
 
 I wanted this piece to: 
-1. Be physically interactive 
-2. Run mechanically, not digitally 
-3. Have a sense of whimsy 
+1. Be **physically interactive** 
+2. Run **mechanically**, not digitally 
+3. Have a sense of **whimsy** (which is ... uh ... hard to quantify) 
 
 A couple of desired interactions: 
-- You "push down" the nose to 
+- The audience gets to  "push down" the nose to reset the timer 
+- The timer "yells" when it's "hungry" 
+
+
 
 ![Image of the internal system in a mechanical timer dial](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/cat-timer%2FD5611CEA-F553-4C7F-96CB-B6DF3CC2197B.jpg?alt=media&token=f07aea85-54f7-41cd-96d2-6c8df5bd391a)
 
@@ -30,7 +33,7 @@ In order to "feed" the cat, you push the nose down, effectively closing the cat'
 30 minutes later, the cat "yells" for more food. 
 ![Image of a timer where the dial is a cat head. The mouth is open to 180 degrees, showing a red panel reading "FEED ME NOW!".](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/3BFCE2CC-18C2-4D7F-9491-39E2339BADC6.jpg?alt=media&token=543c4909-f4a6-4166-9b70-048b0f39e4b9)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0NDcxMzg4LC05NDM0Njc4NTAsLTE3MD
+eyJoaXN0b3J5IjpbNDkxNzMwMDUzLC05NDM0Njc4NTAsLTE3MD
 U5NTA0OCwtMTE2ODcwMjkxNyw5ODIxODM0MzIsLTYxODg3MTc1
 MV19
 -->

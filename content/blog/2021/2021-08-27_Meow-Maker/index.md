@@ -30,7 +30,12 @@ Lucky for me, the dial was a press-fit onto the mechanism, so I could easily rep
 
 I spent some time learning about 3d printing, using **OnShape** to create the CAD elements, and a **Prusa3d** to print. These are some pretty basic shapes, but they had to be modeled to fit the pre-existing parts on the timer itself. 
 
-![CAD of ](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/cat-timer%2FCEA7D261-4353-4D3F-83B4-72C367A8BFD2%202.jpg?alt=media&token=3f125920-d68b-4e75-93b8-831404cd51cf)
+![CAD of piece to interface with timer dial](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/cat-timer%2FCEA7D261-4353-4D3F-83B4-72C367A8BFD2%202.jpg?alt=media&token=3f125920-d68b-4e75-93b8-831404cd51cf)
+
+![3D Printed piece mounted to timer internals](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/cat-timer%2FB10A35AC-96A4-46D9-973F-59EE4F08C998.jpg?alt=media&token=15d10ef4-c50d-420d-ade2-5475aae08370)
+
+Now that
+
 
 ### The final product
 
@@ -39,7 +44,7 @@ In order to "feed" the cat, you push the nose down, effectively closing the cat'
 30 minutes later, the cat "yells" for more food. 
 ![Image of a timer where the dial is a cat head. The mouth is open to 180 degrees, showing a red panel reading "FEED ME NOW!".](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/3BFCE2CC-18C2-4D7F-9491-39E2339BADC6.jpg?alt=media&token=543c4909-f4a6-4166-9b70-048b0f39e4b9)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MTcxMDMwNiwtMjEyNDAzNTU2MiwtMT
-Y1NjI1MjY0MSwtOTQzNDY3ODUwLC0xNzA1OTUwNDgsLTExNjg3
-MDI5MTcsOTgyMTgzNDMyLC02MTg4NzE3NTFdfQ==
+eyJoaXN0b3J5IjpbMjc1Njk2NTU0LC0yMTI0MDM1NTYyLC0xNj
+U2MjUyNjQxLC05NDM0Njc4NTAsLTE3MDU5NTA0OCwtMTE2ODcw
+MjkxNyw5ODIxODM0MzIsLTYxODg3MTc1MV19
 -->

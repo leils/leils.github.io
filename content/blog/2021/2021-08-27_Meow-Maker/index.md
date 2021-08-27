@@ -37,7 +37,7 @@ It took a few tries to make sure the two pieces mated well; between the toleranc
 
 ![3D Printed piece mounted to timer internals](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/cat-timer%2FB10A35AC-96A4-46D9-973F-59EE4F08C998.jpg?alt=media&token=15d10ef4-c50d-420d-ade2-5475aae08370)
 
-Now that the fit seemed snug, I could move on to translating the shape I imagined onto the part itself. 
+Now that the fit seemed snug, I could move on to translating the shape I imagined onto the part itself. I freehanded 
 
 
 ### The final product
@@ -47,7 +47,8 @@ In order to *"feed"* the cat, you push the nose down, effectively closing the ca
 30 minutes later, the cat *"yells"* for more food. 
 ![Image of a timer where the dial is a cat head. The mouth is open to 180 degrees, showing a red panel reading "FEED ME NOW!".](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/3BFCE2CC-18C2-4D7F-9491-39E2339BADC6.jpg?alt=media&token=543c4909-f4a6-4166-9b70-048b0f39e4b9)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU3OTk2NzcxLC0yMTI0MDM1NTYyLC0xNj
-U2MjUyNjQxLC05NDM0Njc4NTAsLTE3MDU5NTA0OCwtMTE2ODcw
-MjkxNyw5ODIxODM0MzIsLTYxODg3MTc1MV19
+eyJoaXN0b3J5IjpbLTg0NjM0ODc2Niw3NTc5OTY3NzEsLTIxMj
+QwMzU1NjIsLTE2NTYyNTI2NDEsLTk0MzQ2Nzg1MCwtMTcwNTk1
+MDQ4LC0xMTY4NzAyOTE3LDk4MjE4MzQzMiwtNjE4ODcxNzUxXX
+0=
 -->

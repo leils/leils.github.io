@@ -1,7 +1,7 @@
 module.exports = {
   name: "Leia",
   shortName: "Leia",
-  description: "web developer and new media artist",
+  description: "creative technologist",
   url: "https://leiac.me", // Domain of your site without prefix!
   prefix: "/",
   author: "Leia Chang",

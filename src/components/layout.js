@@ -4,7 +4,8 @@ import { Link } from "gatsby"
 const Layout = props => {
   const { title, children } = props
   const [toggleNav, setToggleNav] = React.useState(false)
-  const pagePath =  typeof window !== 'undefined' ? window.location.pathname.split('/')[1] : '';
+  const pagePath =
+    typeof window !== "undefined" ? window.location.pathname.split("/")[1] : ""
 
   return (
     <div className={`site-wrapper ${toggleNav ? `site-head-open` : ``}`}>
@@ -28,14 +29,23 @@ const Layout = props => {
           </a>
           <nav id="swup" className="site-head-left">
             <ul className="nav" role="menu">
-              <li className={`nav-home ${pagePath == '' && `nav-current`}`} role="menuitem">
+              <li
+                className={`nav-home ${pagePath == "" && `nav-current`}`}
+                role="menuitem"
+              >
                 <Link to={`/`}>Home</Link>
               </li>
-              <li className={`nav-home ${pagePath == 'about' && `nav-current`}`} role="menuitem">
+              <li
+                className={`nav-home ${pagePath == "about" && `nav-current`}`}
+                role="menuitem"
+              >
                 <Link to={`/about`}>About</Link>
               </li>
-              <li className={`nav-home ${pagePath == 'blog' && `nav-current`}`} role="menuitem">
-                <Link to={`/blog`}>Writing</Link>
+              <li
+                className={`nav-home ${pagePath == "blog" && `nav-current`}`}
+                role="menuitem"
+              >
+                <Link to={`/blog`}>Blog</Link>
               </li>
             </ul>
           </nav>
@@ -55,20 +65,12 @@ const Layout = props => {
                 Twitter
               </a>
               <a
-                href="https://instagram.com/leia.see"
+                href="https://instagram.com/leia.make"
                 title="Instagram"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 Instagram
-              </a>
-              <a
-                href="https://codepen.io/leils"
-                title="CodePen"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                CodePen
               </a>
             </div>
           </div>

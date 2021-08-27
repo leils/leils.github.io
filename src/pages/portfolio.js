@@ -21,7 +21,7 @@ const PortfolioPage = ({ data }, location) => {
       <article className="post-content page-template no-image">
         <div className="post-content-body">
           <h2 id="title">pdf portfolio</h2>
-          <a href="https://drive.google.com/open?id=17qIBHSTx5rb3WGoddoKPoPT-CcPMCB0U">
+          <a href="https://drive.google.com/file/d/17u_666jtV_WtOI8rS6rPITE5Dk_xF5MM/view?usp=sharing">
             <figure className="kg-card kg-image-card kg-width-full">
               <Img
                 fluid={data.portfolioCover.childImageSharp.fluid}

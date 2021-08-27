@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-london",
+  "name": "leils.github.io",
   "private": true,
-  "description": "A custom, image-centric theme for Gatsby",
+  "description": "Personal Website",
   "version": "1.0.0",
-  "author": "Imed Adel <aadelimed@gmail.com>",
+  "author": "Leia Chang <e.leiachang@gmail.com>",
   "bugs": {
     "url": "https://github.com/ImedAdel/gatsby-london/issues"
   },

@@ -29,22 +29,21 @@ const AboutPage = ({ data }, location) => {
       <article className="post-content page-template no-image">
         <div className="post-content-body">
           <h2 id="title">Who is Leia?</h2>
+          <hr />
           <p>
-            Leia is a programmer and artist based in the Bay Area. Currently a
-            frontend developer for Square, she is an active advocate, organizer,
-            and mentor for Women in Engineering communities.
+            Leia is a <b>creative technologist</b> based in Brooklyn.
           </p>
           <p>
-            In her spare time, Leia is a budding artist using both traditional
-            and New media to explore the tension between comfort and the
-            unknown. She is an avid Maker, Tinkerer, and Sometimes-Photographer.
+            Currently a student at <b>NYU ITP</b>, she is a budding artist using
+            both traditional and New media to explore physical interaction and{" "}
+            <b>interactive entertainment</b>. She is an avid Maker, Tinkerer,
+            and Sometimes-Photographer.
           </p>
           <p>
-            For more of her past work, check out Leia's{" "}
-            <Link to={`/portfolio`}>static portfolio</Link>.
+            Check out Leia's <Link to={`/portfolio`}>static portfolio</Link> or
+            instagram below.
           </p>
         </div>
-
         <div id="curator-feed-default-feed-layout">
           <a href="https://curator.io" target="_blank" class="crt-logo crt-tag">
             Powered by Curator.io

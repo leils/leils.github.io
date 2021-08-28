@@ -9,6 +9,7 @@ seo: ["3d printing", "prototype", "timer", "prusa", "prusa3d", "onshape"]
 Earlier this month I moved across the country to attend NYU ITP, the 2-year Interactive Telecommunications Program. This has meant leaving a darling, snuggly cat behind in San Francisco (as well as my dear partner, but that's beside the point). 
 
 To make missing this fuzzy friend a little easier, I made a little timer to simulate her constant need for food. 
+
 ![GIF of a standing timer with cat head as dial. The dial winds up by closing the cat mouth. When the timer completes, the mouth is open to 180 degrees, showing a red panel reading "FEED ME NOW!"](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/cat-timer%2Fcat-timer-gif.gif?alt=media&token=96fd3fd1-2832-4117-9227-b5616489f2b6)
 *[insert gif here]*
 
@@ -57,7 +58,7 @@ In order to *"feed"* the cat, you push the nose down, effectively closing the ca
 And the whole family together: 
 ![Timer and previously printed prototypes together](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/cat-timer%2F42B160F0-31D2-432E-B7DC-0C8BB03D196D.jpg?alt=media&token=db3451a7-2eb0-4cc5-ab86-5358439d962d)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjQ5MTQzNiwtMTM5Mzk5MjY3OSw5OT
+eyJoaXN0b3J5IjpbMTM2ODAxOTQzMCwtMTM5Mzk5MjY3OSw5OT
 kzODA0MDIsLTg0NjM0ODc2Niw3NTc5OTY3NzEsLTIxMjQwMzU1
 NjIsLTE2NTYyNTI2NDEsLTk0MzQ2Nzg1MCwtMTcwNTk1MDQ4LC
 0xMTY4NzAyOTE3LDk4MjE4MzQzMiwtNjE4ODcxNzUxXX0=

@@ -1,7 +1,7 @@
 ---
 title: She Hungers 
 date: "2021-08-27"
-description: For when you miss the cat constantly annoying you
+description: A 3D printed project about a cat
 tags: ["blog", "prototype", "sketch", "3D printing", "prusa", "onshape"]
 seo: ["3d printing", "prototype", "timer", "prusa", "prusa3d", "onshape"]
 
@@ -57,9 +57,9 @@ In order to *"feed"* the cat, you push the nose down, effectively closing the ca
 And the whole family together: 
 ![Timer and previously printed prototypes together](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/cat-timer%2F42B160F0-31D2-432E-B7DC-0C8BB03D196D.jpg?alt=media&token=db3451a7-2eb0-4cc5-ab86-5358439d962d)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNDExMDI0NywxMDU4NjQ4MjUsLTEzOT
-M5OTI2NzksOTk5MzgwNDAyLC04NDYzNDg3NjYsNzU3OTk2Nzcx
-LC0yMTI0MDM1NTYyLC0xNjU2MjUyNjQxLC05NDM0Njc4NTAsLT
-E3MDU5NTA0OCwtMTE2ODcwMjkxNyw5ODIxODM0MzIsLTYxODg3
-MTc1MV19
+eyJoaXN0b3J5IjpbMTIyMjMzMDIxOCwtODM0MTEwMjQ3LDEwNT
+g2NDgyNSwtMTM5Mzk5MjY3OSw5OTkzODA0MDIsLTg0NjM0ODc2
+Niw3NTc5OTY3NzEsLTIxMjQwMzU1NjIsLTE2NTYyNTI2NDEsLT
+k0MzQ2Nzg1MCwtMTcwNTk1MDQ4LC0xMTY4NzAyOTE3LDk4MjE4
+MzQzMiwtNjE4ODcxNzUxXX0=
 -->

@@ -11,7 +11,6 @@ Earlier this month I moved across the country to attend NYU ITP, the 2-year Inte
 To make missing this fuzzy friend a little easier, I made a little timer to simulate her constant need for food. 
 
 ![GIF of a standing timer with cat head as dial. The dial winds up by closing the cat mouth. When the timer completes, the mouth is open to 180 degrees, showing a red panel reading "FEED ME NOW!"](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/cat-timer%2Fcat-timer-gif.gif?alt=media&token=96fd3fd1-2832-4117-9227-b5616489f2b6)
-*[insert gif here]*
 
 It all started here: ![Picture of a paper cutout in the silhouette of a cat head and jaw, over sketches of a cat head that opens/closes its jaw](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/cat-timer%2FE2B92FE4-0BCE-4A84-889F-A5C7CDB08EF6.jpg?alt=media&token=42a09256-3804-4575-a60f-c5a85ffac8e0)
 
@@ -58,8 +57,8 @@ In order to *"feed"* the cat, you push the nose down, effectively closing the ca
 And the whole family together: 
 ![Timer and previously printed prototypes together](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/cat-timer%2F42B160F0-31D2-432E-B7DC-0C8BB03D196D.jpg?alt=media&token=db3451a7-2eb0-4cc5-ab86-5358439d962d)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODAxOTQzMCwtMTM5Mzk5MjY3OSw5OT
-kzODA0MDIsLTg0NjM0ODc2Niw3NTc5OTY3NzEsLTIxMjQwMzU1
-NjIsLTE2NTYyNTI2NDEsLTk0MzQ2Nzg1MCwtMTcwNTk1MDQ4LC
-0xMTY4NzAyOTE3LDk4MjE4MzQzMiwtNjE4ODcxNzUxXX0=
+eyJoaXN0b3J5IjpbMTA1ODY0ODI1LC0xMzkzOTkyNjc5LDk5OT
+M4MDQwMiwtODQ2MzQ4NzY2LDc1Nzk5Njc3MSwtMjEyNDAzNTU2
+MiwtMTY1NjI1MjY0MSwtOTQzNDY3ODUwLC0xNzA1OTUwNDgsLT
+ExNjg3MDI5MTcsOTgyMTgzNDMyLC02MTg4NzE3NTFdfQ==
 -->

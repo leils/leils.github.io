@@ -6,7 +6,7 @@ tags: ["blog", "prototype", "sketch", "3D printing", "prusa", "onshape"]
 seo: ["3d printing", "prototype", "timer", "prusa", "prusa3d", "onshape"]
 
 ---
-Earlier this month I moved across the country to attend NYU ITP, the 2-year Interactive Telecommunications Program. This has meant leaving a darling, snuggly cat behind in San Francisco (as well as my dear partner, but that's beside the point). 
+Earlier this month I moved across the country to attend NYU ITP, the 2-year Interactive Telecommunications Program. This has meant leaving a darling, snuggly cat behind in San Francisco. 
 
 To make missing this fuzzy friend a little easier, I made a little timer to simulate her constant need for food. 
 
@@ -57,8 +57,9 @@ In order to *"feed"* the cat, you push the nose down, effectively closing the ca
 And the whole family together: 
 ![Timer and previously printed prototypes together](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/cat-timer%2F42B160F0-31D2-432E-B7DC-0C8BB03D196D.jpg?alt=media&token=db3451a7-2eb0-4cc5-ab86-5358439d962d)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1ODY0ODI1LC0xMzkzOTkyNjc5LDk5OT
-M4MDQwMiwtODQ2MzQ4NzY2LDc1Nzk5Njc3MSwtMjEyNDAzNTU2
-MiwtMTY1NjI1MjY0MSwtOTQzNDY3ODUwLC0xNzA1OTUwNDgsLT
-ExNjg3MDI5MTcsOTgyMTgzNDMyLC02MTg4NzE3NTFdfQ==
+eyJoaXN0b3J5IjpbLTgzNDExMDI0NywxMDU4NjQ4MjUsLTEzOT
+M5OTI2NzksOTk5MzgwNDAyLC04NDYzNDg3NjYsNzU3OTk2Nzcx
+LC0yMTI0MDM1NTYyLC0xNjU2MjUyNjQxLC05NDM0Njc4NTAsLT
+E3MDU5NTA0OCwtMTE2ODcwMjkxNyw5ODIxODM0MzIsLTYxODg3
+MTc1MV19
 -->

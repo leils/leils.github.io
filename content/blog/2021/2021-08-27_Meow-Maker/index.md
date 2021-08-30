@@ -3,13 +3,13 @@ title: She Hungers
 date: "2021-08-27"
 description: A 3D printed project about a cat
 tags: ["blog", "prototype", "sketch", "3D printing", "prusa", "onshape"]
----Earlier this month I moved across the country to attend NYU ITP, the 2-year Interactive Telecommunications Program. This has meant leaving a darling, snuggly cat behind in San Francisco.
+---
+
+Earlier this month I moved across the country to attend NYU ITP, the 2-year Interactive Telecommunications Program. This has meant leaving a darling, snuggly cat behind in San Francisco.
 
 To make missing this fuzzy friend a little easier, I made a little timer to simulate her constant need for food.
 
-![GIF of a standing timer with cat head as dial. The dial winds up by closing the cat mouth. When the timer completes, the mouth is open to 180 degrees, showing a red panel reading "FEED ME NOW!"](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/cat-timer%2Fcat-timer-gif.gif?alt=media&token=96fd3fd1-2832-4117-9227-b5616489f2b6)
-
-![test](./all_cats.jpg)
+![GIF of a standing timer with cat head as dial. The dial winds up by closing the cat mouth. When the timer completes, the mouth is open to 180 degrees, showing a red panel reading "FEED ME NOW!"](./cat-timer-gif.gif)
 
 It all started here: ![Picture of a paper cutout in the silhouette of a cat head and jaw, over sketches of a cat head that opens/closes its jaw](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/cat-timer%2FE2B92FE4-0BCE-4A84-889F-A5C7CDB08EF6.jpg?alt=media&token=42a09256-3804-4575-a60f-c5a85ffac8e0)
 
@@ -51,8 +51,10 @@ A few tweaks, some final touches, and we got ...
 ### The Final Product
 
 ![Image of a timer, the dial is a cat head in profile. The cat faces to the right, its mouth is closed.](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/6F4FA6E9-6104-440B-B7A3-837555684355.jpg?alt=media&token=1ceef497-88f0-4c7f-ae3d-f09b7a9f736b)
+
 In order to _"feed"_ the cat, you push the nose down, effectively closing the cat's mouth.
 30 minutes later, the cat _"yells"_ for more food.
+
 ![Image of a timer where the dial is a cat head. The mouth is open to 180 degrees, showing a red panel reading "FEED ME NOW!".](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/3BFCE2CC-18C2-4D7F-9491-39E2339BADC6.jpg?alt=media&token=543c4909-f4a6-4166-9b70-048b0f39e4b9)
 
 And the whole family together:

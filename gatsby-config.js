@@ -60,6 +60,16 @@ module.exports = {
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
+          {
+            resolve: `gatsby-remark-images-anywhere`,
+            options: {
+              maxWidth: 1360,
+              withWebp: true,
+              showCaptions: true,
+              quality: 75,
+              wrapperStyle: `margin: 7vw 0;`,
+            },
+          },
         ],
       },
     },

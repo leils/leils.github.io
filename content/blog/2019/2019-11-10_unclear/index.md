@@ -11,7 +11,8 @@ _Unclear_ is an exploration in self-recognition. In meditation, the only way to 
 This piece takes on the shape of a vanity, complete with Hollywood-style lights lining the edge of the mirror.
 The audience is invited to take a seat at the vanity to face themselves, and are confronted with a truer representation of their inner self; they are shrouded in fog, unfocused, hard to see.
 
-<iframe src="https://player.vimeo.com/video/380874635" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+`vimeo: https://player.vimeo.com/video/380874635`
+
 In the process of discovering themselves in the mirror, the audience learns that they can clear this fog by "wiping" it away, sweeping the debris out of the frame. However, the further and more fervently they reach, the closer they get to the mirror, and suddenly, it breaks. They themselves have done this, have brought in a new obstacle to seeing. The lens cracks, and while there may be more clarity in certain spots, others become impossible to grasp.
 
 ![Broken Mirror](./still-broken.png)

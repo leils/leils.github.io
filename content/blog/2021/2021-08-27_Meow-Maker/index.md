@@ -9,7 +9,7 @@ Earlier this month I moved across the country to attend NYU ITP, the 2-year Inte
 
 To make missing this fuzzy friend a little easier, I made a little timer to simulate her constant need for food.
 
-![GIF of a standing timer with cat head as dial. The dial winds up by closing the cat mouth. When the timer completes, the mouth is open to 180 degrees, showing a red panel reading "FEED ME NOW!"](./cat-timer-gif.gif)
+`vimeo: https://vimeo.com/596205642`
 
 It all started here: ![Picture of a paper cutout in the silhouette of a cat head and jaw, over sketches of a cat head that opens/closes its jaw](https://firebasestorage.googleapis.com/v0/b/sketch-blog-857c6.appspot.com/o/cat-timer%2FE2B92FE4-0BCE-4A84-889F-A5C7CDB08EF6.jpg?alt=media&token=42a09256-3804-4575-a60f-c5a85ffac8e0)
 

@@ -3,15 +3,19 @@ import { Link } from "gatsby"
 
 export default props => (
   <Link className="blog-post-card" to={props.node.fields.slug}>
-    <div className="blog-card-contents">
-      <div className="blog-card-title">
+    <div className="blog-post-card-header">
+      <h3 className="blog-card-title">
         {props.node.frontmatter.title || props.node.fields.slug}
-      </div>
-      <p className="blog-card-p"> - {props.node.frontmatter.description}</p>
-      {/* <p className="blog-card-p">
-          {props.node.excerpt}
-        </p> */}
+      </h3>
+      <div className="blog-card-date">{props.node.frontmatter.date}</div>
     </div>
-    <div className="blog-card-date">{props.node.frontmatter.date}</div>
+
+    <div className="blog-card-contents">
+      <h4 className="blog-card-descrip">
+        {" "}
+        {props.node.frontmatter.description}
+      </h4>
+      <p>{props.node.excerpt}</p>
+    </div>
   </Link>
 )

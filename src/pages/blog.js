@@ -16,23 +16,23 @@ const BlogIndex = ({ data }, location) => {
   return (
     <Layout title={siteTitle}>
       <SEO title="LC" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
-      <div className="post-content-body">
-        {data.site.siteMetadata.description && (
-          <h2>Blog & Writing</h2>
-        )}
-        <div className="blog-post-feed">
-          {posts.map(({ node }) => {
-            postCounter++
-            return (
-              <BlogPostCard
-                key={node.fields.slug}
-                count={postCounter}
-                node={node}
-                postClass={`post`}
-              />
-            )
-          })}
-        </div>
+      {data.site.siteMetadata.description && (
+        <header className="page-head">
+          <h2 className="page-head-title">All Posts</h2>
+        </header>
+      )}
+      <div className="blog-post-feed">
+        {posts.map(({ node }) => {
+          postCounter++
+          return (
+            <BlogPostCard
+              key={node.fields.slug}
+              count={postCounter}
+              node={node}
+              postClass={`post`}
+            />
+          )
+        })}
       </div>
     </Layout>
   )

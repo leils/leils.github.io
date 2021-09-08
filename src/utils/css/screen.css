@@ -427,7 +427,7 @@ body {
   bottom: 0;
   left: 0;
   color: #fff;
-  background: rgba(0, 0, 0, 0.1);
+  background: rgba(0, 0, 0, 0.4);
   opacity: 1;
   transition: opacity 0.5s cubic-bezier(0.33, 0, 0.2, 1);
 }
@@ -498,11 +498,10 @@ body {
 
 /* Blog Post Feed
 /* ---------------------------------------------------------- */
-
+/*
 .blog-post-feed {
-  display: flex;
-  flex-wrap: wrap;
-  max-width: 800px;
+  max-width: 720px;
+  margin: 0 auto;
 }
 
 .blog-post-card {
@@ -586,7 +585,7 @@ body {
 .blog-post-card.no-image:hover .blog-post-card-title {
   text-decoration: underline;
 }
-
+ */
 /* Post Content
 /* ---------------------------------------------------------- */
 

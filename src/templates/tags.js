@@ -1,6 +1,6 @@
 import React from "react"
 import PropTypes from "prop-types"
-
+import BlogPostCard from "../components/blogPostCard"
 // Components
 import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
@@ -11,22 +11,29 @@ const Tags = ({ pageContext, data }) => {
   const tagHeader = `${totalCount} post${
     totalCount === 1 ? "" : "s"
   } tagged with "${tag}"`
+  let postCounter = 0
 
   return (
     <Layout title={"Leia"}>
-      <h2>{tagHeader}</h2>
-      <ul>
+      {data.site.siteMetadata.description && (
+        <header className="page-head">
+          <h2 className="page-head-title">{tagHeader}</h2>
+        </header>
+      )}
+      <Link to="/tags">All tags</Link>
+      <div className="blog-post-feed">
         {edges.map(({ node }) => {
-          const { slug } = node.fields
-          const { title } = node.frontmatter
+          postCounter++
           return (
-            <li key={slug}>
-              <Link to={slug}>{title}</Link>
-            </li>
+            <BlogPostCard
+              key={node.fields.slug}
+              count={postCounter}
+              node={node}
+              postClass={`post`}
+            />
           )
         })}
-      </ul>
-      <Link to="/tags">All tags</Link>
+      </div>
     </Layout>
   )
 }
@@ -58,6 +65,12 @@ export default Tags
 
 export const pageQuery = graphql`
   query($tag: String) {
+    site {
+      siteMetadata {
+        title
+        description
+      }
+    }
     allMarkdownRemark(
       limit: 2000
       sort: { fields: [frontmatter___date], order: DESC }
@@ -66,11 +79,21 @@ export const pageQuery = graphql`
       totalCount
       edges {
         node {
+          excerpt
           fields {
             slug
           }
           frontmatter {
+            date(formatString: "MMMM DD, YYYY")
             title
+            description
+            thumbnail {
+              childImageSharp {
+                fluid(maxWidth: 1360) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
           }
         }
       }

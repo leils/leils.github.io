@@ -4,6 +4,7 @@ import { graphql, StaticQuery } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import BlogPostCard from "../components/blogPostCard"
+import TagMenu from "../components/tagMenu"
 
 import "../utils/normalize.css"
 import "../utils/css/screen.css"
@@ -19,6 +20,7 @@ const BlogIndex = ({ data }, location) => {
       {data.site.siteMetadata.description && (
         <header className="page-head">
           <h2 className="page-head-title">All Posts</h2>
+          <TagMenu />
         </header>
       )}
       <div className="blog-post-feed">

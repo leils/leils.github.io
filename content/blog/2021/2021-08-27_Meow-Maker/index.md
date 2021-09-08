@@ -2,7 +2,7 @@
 title: She Hungers
 date: "2021-08-27"
 description: A 3D printed project about a cat
-tags: ["blog", "prototype", "sketch", "3D printing", "prusa", "onshape"]
+tags: ["blog", "prototype", "sketch", "3D printing", "prusa", "onshape", "ITP"]
 thumbnail: ./all_cats.jpg
 ---
 

@@ -4,6 +4,7 @@ import BlogPostCard from "../components/blogPostCard"
 // Components
 import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
+import TagMenu from "../components/tagMenu"
 
 const Tags = ({ pageContext, data }) => {
   const { tag } = pageContext
@@ -15,12 +16,10 @@ const Tags = ({ pageContext, data }) => {
 
   return (
     <Layout title={"Leia"}>
-      {data.site.siteMetadata.description && (
-        <header className="page-head">
-          <h2 className="page-head-title">{tagHeader}</h2>
-        </header>
-      )}
-      <Link to="/tags">All tags</Link>
+      <header className="page-head">
+        <h2 className="page-head-title">{tagHeader}</h2>
+        <TagMenu />
+      </header>
       <div className="blog-post-feed">
         {edges.map(({ node }) => {
           postCounter++

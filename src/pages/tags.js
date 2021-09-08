@@ -23,21 +23,17 @@ const TagsPage = ({
         <h2 className="page-head-title">All Tags</h2>
         <TagMenu />
       </header>
-      <article className="post-content page-template no-image">
-        <div className="post-content-body">
-          <div>
-            <ul>
-              {group.map(tag => (
-                <li key={tag.fieldValue}>
-                  <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
-                    {tag.fieldValue} ({tag.totalCount})
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </div>
-        </div>
-      </article>
+      <div class="blog-post-feed">
+        <ul>
+          {group.map(tag => (
+            <li key={tag.fieldValue}>
+              <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
+                {tag.fieldValue} ({tag.totalCount})
+              </Link>
+            </li>
+          ))}
+        </ul>
+      </div>
     </Layout>
   )
 }

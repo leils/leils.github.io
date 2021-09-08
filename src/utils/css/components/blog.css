@@ -1,6 +1,38 @@
 /* Blog Post Feed
 /* ---------------------------------------------------------- */
 
+/* These relect the styling of the navigation header bar,
+but are NOT responsive, do not allow for hamburger in mobile */
+.tag-menu {
+  position: relative;
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+  white-space: nowrap;
+}
+
+.tag-menu ul {
+  list-style: none;
+  display: flex;
+  margin: 0 0 0 -12px;
+  padding: 0;
+}
+
+.tag-menu a {
+  display: block;
+  margin: 0;
+  padding: 10px 12px;
+  color: var(--color-base);
+  font-weight: 600;
+  opacity: 0.4;
+}
+
+.tag-menu a:hover {
+  text-decoration: none;
+  opacity: 1;
+}
+
 .blog-post-feed {
   max-width: 720px;
   margin: 0 auto;

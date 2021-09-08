@@ -167,7 +167,8 @@ body {
 }
 
 .site-head-left a,
-.site-head-right a {
+.site-head-right a,
+.tag-head a {
   display: block;
   margin: 0;
   padding: 10px 12px;

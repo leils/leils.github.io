@@ -2,7 +2,8 @@
 title: She Hungers
 date: "2021-08-27"
 description: A 3D printed project about a cat
-tags: ["blog", "prototype", "sketch", "3D printing", "prusa", "onshape"]
+tags: ["blog", "prototype", "sketch", "3D printing", "prusa", "onshape", "ITP"]
+thumbnail: ./all_cats.jpg
 ---
 
 Earlier this month I moved across the country to attend NYU ITP, the 2-year Interactive Telecommunications Program. This has meant leaving a darling, snuggly cat behind in San Francisco.

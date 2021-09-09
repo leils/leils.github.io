@@ -4,6 +4,7 @@ import { graphql, StaticQuery } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import BlogPostCard from "../components/blogPostCard"
+import TagMenu from "../components/tagMenu"
 
 import "../utils/normalize.css"
 import "../utils/css/screen.css"
@@ -16,23 +17,24 @@ const BlogIndex = ({ data }, location) => {
   return (
     <Layout title={siteTitle}>
       <SEO title="LC" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
-      <div className="post-content-body">
-        {data.site.siteMetadata.description && (
-          <h2>Blog & Writing</h2>
-        )}
-        <div className="blog-post-feed">
-          {posts.map(({ node }) => {
-            postCounter++
-            return (
-              <BlogPostCard
-                key={node.fields.slug}
-                count={postCounter}
-                node={node}
-                postClass={`post`}
-              />
-            )
-          })}
-        </div>
+      {data.site.siteMetadata.description && (
+        <header className="page-head">
+          <h2 className="page-head-title">All Posts</h2>
+          <TagMenu />
+        </header>
+      )}
+      <div className="blog-post-feed">
+        {posts.map(({ node }) => {
+          postCounter++
+          return (
+            <BlogPostCard
+              key={node.fields.slug}
+              count={postCounter}
+              node={node}
+              postClass={`post`}
+            />
+          )
+        })}
       </div>
     </Layout>
   )

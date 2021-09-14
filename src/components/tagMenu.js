@@ -2,10 +2,6 @@ import React from "react"
 import { Link } from "gatsby"
 
 const TagMenu = props => {
-  const [toggleNav, setToggleNav] = React.useState(false)
-  const pagePath =
-    typeof window !== "undefined" ? window.location.pathname.split("/")[1] : ""
-
   return (
     <nav className="tag-menu">
       <ul role="menu">

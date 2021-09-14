@@ -6,6 +6,10 @@ Post drafts can be created on [StackEdit](stackedit.io), saved to the [post-draf
 
 ## Todos:
 
+Priorities:
+
+- [ ] Loading issues before caching: suspected to be missing icons 404-ing
+
 - [ ] Fix GIF handling, or create a better workflow for MP4s for auto-play and loop
 - [ ] Update about-me
 - [ ] Update Blog page to show snippets

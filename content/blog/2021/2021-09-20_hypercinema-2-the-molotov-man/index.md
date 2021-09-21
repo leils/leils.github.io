@@ -1,11 +1,11 @@
 ---
 title: Hypercinema - The Molotov Man
 date: "2021-09-20"
-description: "A gut-instinct reaction to The Molotov Man"
+description: "Ethics in art and ownership"
 tags: ["blog", "itp", "hypercinema"]
 ---
 
-<link here>
+[On the Rights of the Molotov Man - Susan Joy](https://zscalarts.files.wordpress.com/2013/12/on-the-rights-of-molotov-man-susan-joy.pdf)
 
 Reading this article, I realized that I too have seen this man spraypainted on
 walls and plastered on billboards. His pose and emotion evoke a more recent

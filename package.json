@@ -19,6 +19,7 @@
     "gatsby-plugin-purgecss": "^3.1.1",
     "gatsby-plugin-react-helmet": "^3.0.12",
     "gatsby-plugin-sharp": "^2.0.36",
+    "gatsby-remark-audio": "^1.0.2",
     "gatsby-remark-copy-linked-files": "^2.0.12",
     "gatsby-remark-embed-video": "^3.1.1",
     "gatsby-remark-images": "^2.0.6",

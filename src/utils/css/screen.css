@@ -703,7 +703,12 @@ body {
   color: var(--color-bg);
   font-size: 1.4rem;
   line-height: 1.5em;
-  background: color(var(--color-base) l(-3%));
+  /* background: color(var(--color-base) l(-3%)); */
+  /*
+   * something happened with the variables ... quick fix to get code back until
+   * I can fix further
+   */
+  background: black;
   border-radius: 5px;
 }
 

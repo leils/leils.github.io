@@ -336,7 +336,8 @@ blockquote cite a {
 }
 
 a {
-    color: color(var(--color-primary) l(-5%));
+    /* color: color(var(--color-primary) l(-5%)); */
+    color: #3eb0ef;
     text-decoration: none;
     transition: 0.4s ease;
 }
@@ -403,4 +404,3 @@ h6 {
     margin: 1.5em 0 1em 0;
     font-size: 2.2rem;
 }
-

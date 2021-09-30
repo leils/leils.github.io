@@ -29,8 +29,8 @@ Breaking the mirror could be seen as a mistake, but by including it in the piece
 
 I started with some sketches, as you always do.
 
-![BTS - ideation sketches 2](./Paper.Mirror.2.png)
-![BTS - ideation sketches 3](./Paper.Mirror.3.png)
+![BTS - ideation sketches 2](./paper-mirror-sketch2.png)
+![BTS - ideation sketches 3](./paper-mirror-sketch3.png)
 
 The idea just never left my mind, and eventually, started to seep into other pieces as well. You might notice a theme amongst the other posts here, and in fact, they're quite related. My _Shatter_ experiment, done in P5 and Tone.js, is the inspiration for the cracked glass effect that you see in this project. I even tested the idea for the foggy mirror in _Soft_, my foray into projetion mapping on soft bodies.
 
@@ -40,7 +40,7 @@ The idea just never left my mind, and eventually, started to seep into other pie
 <!-- ![BTS - ideation sketches 6](./Paper.Mirror.6.PNG) -->
 <!-- ![BTS - ideation sketches 7](./Paper.Mirror.7.PNG) -->
 
-![BTS - ideation sketches 8](./Paper.Mirror.8.png)
+![BTS - ideation sketches 8](./paper-mirror-sketch8.png)
 
 Finally, the piece was put together by hand. It is a monitor encased in a wooden vanity, each board of the frame cut by hand using a push saw. After a few trials, it all came together.
 ![BTS - woodworking 1](./woodworking1.jpg)

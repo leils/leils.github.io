@@ -21,8 +21,6 @@ In the process of discovering themselves in the mirror, the audience learns that
 
 This piece began with a conversation with my good friend and fellow artist, [Alice](https://aliceyuanzhang.com/). We had been talking about meditation, and how the _self_ within is an elusive concept. Each time you reach for it, it slips out of your grasp - but in never reaching, you never see anything at all. Unseen is a play on that, turning self-reflection from internal to external, a metaphorical fog into a literal one.
 
-<!-- TODO unclear photos, soft -->
-
 I'd been fascinated with half-seen objects and people for a while. But with this new lens of the self, I wanted to ask another question; How does agency affect our sense of self?
 
 Breaking the mirror could be seen as a mistake, but by including it in the piece it becomes intended play. One of my goals was to allow the audience to interact with their internal lens, both trying to clarify it and shaping it in the process.
@@ -31,8 +29,8 @@ Breaking the mirror could be seen as a mistake, but by including it in the piece
 
 I started with some sketches, as you always do.
 
-![BTS - ideation sketches 2](./Paper.Mirror.2.PNG)
-![BTS - ideation sketches 3](./Paper.Mirror.3.PNG)
+![BTS - ideation sketches 2](./Paper.Mirror.2.png)
+![BTS - ideation sketches 3](./Paper.Mirror.3.png)
 
 The idea just never left my mind, and eventually, started to seep into other pieces as well. You might notice a theme amongst the other posts here, and in fact, they're quite related. My _Shatter_ experiment, done in P5 and Tone.js, is the inspiration for the cracked glass effect that you see in this project. I even tested the idea for the foggy mirror in _Soft_, my foray into projetion mapping on soft bodies.
 
@@ -42,7 +40,7 @@ The idea just never left my mind, and eventually, started to seep into other pie
 <!-- ![BTS - ideation sketches 6](./Paper.Mirror.6.PNG) -->
 <!-- ![BTS - ideation sketches 7](./Paper.Mirror.7.PNG) -->
 
-![BTS - ideation sketches 8](./Paper.Mirror.8.PNG)
+![BTS - ideation sketches 8](./Paper.Mirror.8.png)
 
 Finally, the piece was put together by hand. It is a monitor encased in a wooden vanity, each board of the frame cut by hand using a push saw. After a few trials, it all came together.
 ![BTS - woodworking 1](./woodworking1.jpg)

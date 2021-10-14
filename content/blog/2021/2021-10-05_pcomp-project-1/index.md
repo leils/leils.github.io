@@ -1,5 +1,5 @@
 ---
-title: Sweet Dreams - PCOMP Projec t1
+title: Sweet Dreams - PCOMP Project 1
 date: "2021-10-05"
 description: A mechanized diorama
 tags: ["blog", "itp", "PCOMP"]

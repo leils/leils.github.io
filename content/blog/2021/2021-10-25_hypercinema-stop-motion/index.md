@@ -7,7 +7,7 @@ thumbnail: ./boo.jpg
 ---
 This week, we experimented with some stop motion! I worked with [Tash Trebisacci](https://www.tatianatrebisacci.com) to create these tiny little animations.
 
-To continue my obsession with the laser cutter, we decided to play around with cutting paper and cardboard. We figured it would be pretty easy to make "morphing" shapes (for example, the moon below) in illustrator and have them cut out, rather than trying to mould them by hand.
+To continue my obsession with the laser cutter, we decided to play around with cutting paper and cardboard. We figured it would be pretty easy to make "morphing" shapes (for example, the moon below) in illustrator and have them cut out, rather than trying to mould them by hand. This took inspiration from [Shugo Tokumaru's *Katachi*](https://www.youtube.com/watch?v=Q-WM-x__BOk) as well.
 
 Our aim was to make simple but delightful animations. After the initial brainstorming and idea generation, we each set off on a bit of personal exploration, and came up with these.
 

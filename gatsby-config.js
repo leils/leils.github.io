@@ -80,6 +80,17 @@ module.exports = {
               wrapperStyle: `margin: 7vw 0;`,
             },
           },
+          {
+            resolve: `gatsby-remark-embedder`,
+            options: {
+              customTransformers: [
+                // Your custom transformers
+              ],
+              services: {
+                // The service-specific options by the name of the service
+              },
+            },
+          },
         ],
       },
     },

@@ -7,6 +7,8 @@ thumbnail: ./hero.jpg
 ---
 This week, I took a bit of a detour. A spooky detour.
 
+https://media.giphy.com/media/Ne9STnE70KnuYilRP3/giphy.gif
+
 `youtube: https://youtu.be/sCgfHm83ieI`  
 
 This was created for the Social Genius Halloween Experience Event, taking place on the NYU ITP floor. Pulled from my fondness for Disneyland and Imagineering, I re-imagined the Singing Busts from the Haunted Mansion as an interactive choir, a ghostly chorus that you could all up with candles. The ghosts are a 4k fan-generated video, created for Halloween projections. You can find the [video here on Youtube](https://youtu.be/HECrCf73Jv8).

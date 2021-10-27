@@ -2,7 +2,7 @@
 title: Spooky Serenade
 date: "2021-10-26"
 description: Candles call the spooky serenade
-tags: ["blog", "itp", "PCOMP", "Out of Order Storytelling"]
+tags: ["blog", "itp", "PCOMP", "showcase", "portfolio"]
 thumbnail: ./hero.jpg
 ---
 This week, I took a bit of a detour. A spooky detour.

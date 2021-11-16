@@ -85,7 +85,7 @@ body {
   font-size: 1.4rem;
   text-transform: uppercase;
   letter-spacing: 1px;
-  color: color(var(--color-base) l(+50%));
+  color: var(--color-base);
 }
 
 .error-link {
@@ -107,7 +107,7 @@ body {
 
 .page-head-description {
   margin: 0 0 1.6vw;
-  color: color(var(--color-border) l(-20%));
+  color: var(--color-border);
   font-size: 2.2rem;
   line-height: 1.35em;
 }
@@ -120,7 +120,7 @@ body {
 .site-foot {
   margin: 3vw 0 1vw;
   text-align: center;
-  color: color(var(--color-border) l(-20%));
+  color: var(--color-border);
   font-size: 1.4rem;
 }
 
@@ -699,11 +699,10 @@ body {
   margin: 1.5em 0 3em;
   padding: 20px;
   max-width: 100%;
-  border: color(var(--color-base) l(-10%)) 1px solid;
+  border: var(--color-base) 1px solid;
   color: var(--color-bg);
   font-size: 1.4rem;
   line-height: 1.5em;
-  /* background: color(var(--color-base) l(-3%)); */
   /*
    * something happened with the variables ... quick fix to get code back until
    * I can fix further
@@ -740,7 +739,7 @@ body {
   margin-left: -10px;
   width: 1px;
   height: 30px;
-  background: color(var(--color-border) l(+10%));
+  background: var(--color-border);
   box-shadow: #fff 0 0 0 5px;
   transform: rotate(45deg);
 }
@@ -773,7 +772,7 @@ body {
   justify-content: center;
   align-items: center;
   margin-bottom: 10px;
-  color: color(var(--color-border) l(-20%));
+  color: var(--color-border);
 }
 
 .author-links {
